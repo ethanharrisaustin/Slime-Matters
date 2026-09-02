@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3502b33d1a2f94aa583c7cab3a4b4ce6, type: 3}
+  m_Name: Stage 1
+  m_EditorClassIdentifier: Assembly-CSharp::StageLevels
+  levels:
+  - LEVEL_00
+  - LEVEL_01
+  - LEVEL_02
+  - LEVEL_03
+  - LEVEL_03_1
+  - LEVEL_04
+  - LEVEL_05 1
+  - LEVEL_06
+  - LEVEL_07
+  - LEVEL_08
+  - LEVEL_10
+  - LEVEL_11
+  - LEVEL_12
+  - LEVEL_13
+  - LEVEL_14
+  - LEVEL_15
+  - LEVEL_16

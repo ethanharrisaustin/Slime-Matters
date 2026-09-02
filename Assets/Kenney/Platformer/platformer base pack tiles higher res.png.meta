@@ -1,0 +1,6712 @@
+fileFormatVersion: 2
+guid: f57993e79d9c141a1a8771254e138b2c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4263001953445140226
+    second: platformer base pack tiles higher res_0
+  - first:
+      213: -5935717690093779712
+    second: platformer base pack tiles higher res_1
+  - first:
+      213: 1005080503733930024
+    second: platformer base pack tiles higher res_2
+  - first:
+      213: 6623536666982159145
+    second: platformer base pack tiles higher res_3
+  - first:
+      213: 7873663306619610950
+    second: platformer base pack tiles higher res_4
+  - first:
+      213: 2119843336724996407
+    second: platformer base pack tiles higher res_5
+  - first:
+      213: 7698931342840945602
+    second: platformer base pack tiles higher res_6
+  - first:
+      213: 695071638926806322
+    second: platformer base pack tiles higher res_7
+  - first:
+      213: 5041673901415767728
+    second: platformer base pack tiles higher res_8
+  - first:
+      213: -1673395729031615928
+    second: platformer base pack tiles higher res_9
+  - first:
+      213: 2670332039430022446
+    second: platformer base pack tiles higher res_10
+  - first:
+      213: 5285908595233463690
+    second: platformer base pack tiles higher res_11
+  - first:
+      213: -7595198560122499616
+    second: platformer base pack tiles higher res_12
+  - first:
+      213: -9045489953294733355
+    second: platformer base pack tiles higher res_13
+  - first:
+      213: -8531511960531552489
+    second: platformer base pack tiles higher res_14
+  - first:
+      213: 7639589128160414953
+    second: platformer base pack tiles higher res_15
+  - first:
+      213: 8150793152685846834
+    second: platformer base pack tiles higher res_16
+  - first:
+      213: -2234521815824274487
+    second: platformer base pack tiles higher res_17
+  - first:
+      213: -9198054657806140439
+    second: platformer base pack tiles higher res_18
+  - first:
+      213: 7839437864265220497
+    second: platformer base pack tiles higher res_19
+  - first:
+      213: -143449041843757593
+    second: platformer base pack tiles higher res_20
+  - first:
+      213: 8821870889621889406
+    second: platformer base pack tiles higher res_21
+  - first:
+      213: 2192178690245839224
+    second: platformer base pack tiles higher res_22
+  - first:
+      213: -783239362850232314
+    second: platformer base pack tiles higher res_23
+  - first:
+      213: 8080071690837229412
+    second: platformer base pack tiles higher res_24
+  - first:
+      213: 3477286076580267079
+    second: platformer base pack tiles higher res_25
+  - first:
+      213: 7942101528765647520
+    second: platformer base pack tiles higher res_26
+  - first:
+      213: 9155756704238990405
+    second: platformer base pack tiles higher res_27
+  - first:
+      213: 7958520583911747944
+    second: platformer base pack tiles higher res_28
+  - first:
+      213: 2502359246949184299
+    second: platformer base pack tiles higher res_29
+  - first:
+      213: -7950663816148257352
+    second: platformer base pack tiles higher res_30
+  - first:
+      213: 3509526712068596890
+    second: platformer base pack tiles higher res_31
+  - first:
+      213: -7163627257494386165
+    second: platformer base pack tiles higher res_32
+  - first:
+      213: -8562303602306256253
+    second: platformer base pack tiles higher res_33
+  - first:
+      213: -8237029243687103477
+    second: platformer base pack tiles higher res_34
+  - first:
+      213: -7718317193416282937
+    second: platformer base pack tiles higher res_35
+  - first:
+      213: -1220285235235009935
+    second: platformer base pack tiles higher res_36
+  - first:
+      213: -5529528939617794921
+    second: platformer base pack tiles higher res_37
+  - first:
+      213: 7464756228692909823
+    second: platformer base pack tiles higher res_38
+  - first:
+      213: 3845217974444722623
+    second: platformer base pack tiles higher res_39
+  - first:
+      213: -9052530260922553426
+    second: platformer base pack tiles higher res_40
+  - first:
+      213: 5507884495865131085
+    second: platformer base pack tiles higher res_41
+  - first:
+      213: -6104420017104886580
+    second: platformer base pack tiles higher res_42
+  - first:
+      213: 2797339448507983508
+    second: platformer base pack tiles higher res_43
+  - first:
+      213: -3467642403732191451
+    second: platformer base pack tiles higher res_44
+  - first:
+      213: 3007900856176330238
+    second: platformer base pack tiles higher res_45
+  - first:
+      213: 2184444359727261376
+    second: platformer base pack tiles higher res_46
+  - first:
+      213: -8910719750789344079
+    second: platformer base pack tiles higher res_47
+  - first:
+      213: 8737750728087115566
+    second: platformer base pack tiles higher res_48
+  - first:
+      213: -7450812491493645746
+    second: platformer base pack tiles higher res_49
+  - first:
+      213: 413134032294444007
+    second: platformer base pack tiles higher res_50
+  - first:
+      213: 6845143024478581132
+    second: platformer base pack tiles higher res_51
+  - first:
+      213: -2145208817495036371
+    second: platformer base pack tiles higher res_52
+  - first:
+      213: 607756408970178232
+    second: platformer base pack tiles higher res_53
+  - first:
+      213: 2345067224100801187
+    second: platformer base pack tiles higher res_54
+  - first:
+      213: -4124207298658616421
+    second: platformer base pack tiles higher res_55
+  - first:
+      213: 195672874035313876
+    second: platformer base pack tiles higher res_56
+  - first:
+      213: 8824778860575106648
+    second: platformer base pack tiles higher res_57
+  - first:
+      213: -467728777607991591
+    second: platformer base pack tiles higher res_58
+  - first:
+      213: 3439548131691154711
+    second: platformer base pack tiles higher res_59
+  - first:
+      213: -936302565013556826
+    second: platformer base pack tiles higher res_60
+  - first:
+      213: -2726988983623737514
+    second: platformer base pack tiles higher res_61
+  - first:
+      213: 3414019919116536258
+    second: platformer base pack tiles higher res_62
+  - first:
+      213: 2443562723389118375
+    second: platformer base pack tiles higher res_63
+  - first:
+      213: 7603899220669435862
+    second: platformer base pack tiles higher res_64
+  - first:
+      213: 5643138046984320638
+    second: platformer base pack tiles higher res_65
+  - first:
+      213: 2016729347831947987
+    second: platformer base pack tiles higher res_66
+  - first:
+      213: -783635695608665818
+    second: platformer base pack tiles higher res_67
+  - first:
+      213: 1443087562733735619
+    second: platformer base pack tiles higher res_68
+  - first:
+      213: -5599019577577105007
+    second: platformer base pack tiles higher res_69
+  - first:
+      213: -7507766986391598050
+    second: platformer base pack tiles higher res_70
+  - first:
+      213: -2122909393705526990
+    second: platformer base pack tiles higher res_71
+  - first:
+      213: -6312860604852265637
+    second: platformer base pack tiles higher res_72
+  - first:
+      213: 6705564359009018852
+    second: platformer base pack tiles higher res_73
+  - first:
+      213: 4451422500137242027
+    second: platformer base pack tiles higher res_74
+  - first:
+      213: -280542870987082974
+    second: platformer base pack tiles higher res_75
+  - first:
+      213: -3684604388411435092
+    second: platformer base pack tiles higher res_76
+  - first:
+      213: 7103607122287615688
+    second: platformer base pack tiles higher res_77
+  - first:
+      213: 8895059027087955957
+    second: platformer base pack tiles higher res_78
+  - first:
+      213: 5160105648274474190
+    second: platformer base pack tiles higher res_79
+  - first:
+      213: 6430293767748869781
+    second: platformer base pack tiles higher res_80
+  - first:
+      213: -5475755654910587378
+    second: platformer base pack tiles higher res_81
+  - first:
+      213: -2229197676863737475
+    second: platformer base pack tiles higher res_82
+  - first:
+      213: -1564554207688399733
+    second: platformer base pack tiles higher res_83
+  - first:
+      213: -3986006066447001273
+    second: platformer base pack tiles higher res_84
+  - first:
+      213: 1680458645958776999
+    second: platformer base pack tiles higher res_85
+  - first:
+      213: -6403595671999845594
+    second: platformer base pack tiles higher res_86
+  - first:
+      213: -5239748529635208845
+    second: platformer base pack tiles higher res_87
+  - first:
+      213: -9106614602458108332
+    second: platformer base pack tiles higher res_88
+  - first:
+      213: 5982040378414705997
+    second: platformer base pack tiles higher res_89
+  - first:
+      213: -3060873921294931529
+    second: platformer base pack tiles higher res_90
+  - first:
+      213: -1957513913336345564
+    second: platformer base pack tiles higher res_91
+  - first:
+      213: 359368480404801349
+    second: platformer base pack tiles higher res_92
+  - first:
+      213: -3745480216029881815
+    second: platformer base pack tiles higher res_93
+  - first:
+      213: 4144821724413102729
+    second: platformer base pack tiles higher res_94
+  - first:
+      213: -6560458769415350211
+    second: platformer base pack tiles higher res_95
+  - first:
+      213: 6038617149024015000
+    second: platformer base pack tiles higher res_96
+  - first:
+      213: -7420354470929690919
+    second: platformer base pack tiles higher res_97
+  - first:
+      213: 8722446072266687313
+    second: platformer base pack tiles higher res_98
+  - first:
+      213: 2700022901647713157
+    second: platformer base pack tiles higher res_99
+  - first:
+      213: -9032201543290118888
+    second: platformer base pack tiles higher res_100
+  - first:
+      213: 6723769204533187568
+    second: platformer base pack tiles higher res_101
+  - first:
+      213: 1809144857652986353
+    second: platformer base pack tiles higher res_102
+  - first:
+      213: -7174904961221686552
+    second: platformer base pack tiles higher res_103
+  - first:
+      213: -7563835523131513620
+    second: platformer base pack tiles higher res_104
+  - first:
+      213: -5393209509150459208
+    second: platformer base pack tiles higher res_105
+  - first:
+      213: 5469202842511770749
+    second: platformer base pack tiles higher res_106
+  - first:
+      213: 8410259504892852991
+    second: platformer base pack tiles higher res_107
+  - first:
+      213: 7845955744843295658
+    second: platformer base pack tiles higher res_108
+  - first:
+      213: 2840206791896916329
+    second: platformer base pack tiles higher res_109
+  - first:
+      213: 7090879184755955313
+    second: platformer base pack tiles higher res_110
+  - first:
+      213: -3116029808777053563
+    second: platformer base pack tiles higher res_111
+  - first:
+      213: -9110116358328492861
+    second: platformer base pack tiles higher res_112
+  - first:
+      213: -8449033579481536665
+    second: platformer base pack tiles higher res_113
+  - first:
+      213: 6578098195819774639
+    second: platformer base pack tiles higher res_114
+  - first:
+      213: 2407180841635155167
+    second: platformer base pack tiles higher res_115
+  - first:
+      213: 1019507781866029730
+    second: platformer base pack tiles higher res_116
+  - first:
+      213: -1214995270967396381
+    second: platformer base pack tiles higher res_117
+  - first:
+      213: 6036739493309924262
+    second: platformer base pack tiles higher res_118
+  - first:
+      213: 3871829517713069898
+    second: platformer base pack tiles higher res_119
+  - first:
+      213: 1029876878785621069
+    second: platformer base pack tiles higher res_120
+  - first:
+      213: -4400514666753879705
+    second: platformer base pack tiles higher res_121
+  - first:
+      213: -4731713355067853519
+    second: platformer base pack tiles higher res_122
+  - first:
+      213: -7750225285285748784
+    second: platformer base pack tiles higher res_123
+  - first:
+      213: -8367782829674839572
+    second: platformer base pack tiles higher res_124
+  - first:
+      213: -3360385888673830921
+    second: platformer base pack tiles higher res_125
+  - first:
+      213: -7971775571282308257
+    second: platformer base pack tiles higher res_126
+  - first:
+      213: 4073961776745380437
+    second: platformer base pack tiles higher res_127
+  - first:
+      213: -4804104328933753554
+    second: platformer base pack tiles higher res_128
+  - first:
+      213: -241079096733471401
+    second: platformer base pack tiles higher res_129
+  - first:
+      213: -4165970870473480710
+    second: platformer base pack tiles higher res_130
+  - first:
+      213: 5469169077081385523
+    second: platformer base pack tiles higher res_131
+  - first:
+      213: -4242266068493850024
+    second: platformer base pack tiles higher res_132
+  - first:
+      213: -3091743032954504928
+    second: platformer base pack tiles higher res_133
+  - first:
+      213: -7739299679326336700
+    second: platformer base pack tiles higher res_134
+  - first:
+      213: -6396754207756238781
+    second: platformer base pack tiles higher res_135
+  - first:
+      213: 953578391966057058
+    second: platformer base pack tiles higher res_136
+  - first:
+      213: -7665870537859095218
+    second: platformer base pack tiles higher res_137
+  - first:
+      213: -9088077873867385483
+    second: platformer base pack tiles higher res_138
+  - first:
+      213: -8469900306825363673
+    second: platformer base pack tiles higher res_139
+  - first:
+      213: 8639293875470357840
+    second: platformer base pack tiles higher res_140
+  - first:
+      213: 6672886660548107234
+    second: platformer base pack tiles higher res_141
+  - first:
+      213: -1672520917950260469
+    second: platformer base pack tiles higher res_142
+  - first:
+      213: 7744340766978975621
+    second: platformer base pack tiles higher res_143
+  - first:
+      213: -4809699936108124645
+    second: platformer base pack tiles higher res_144
+  - first:
+      213: 1615322382700040255
+    second: platformer base pack tiles higher res_145
+  - first:
+      213: 1670776173284125771
+    second: platformer base pack tiles higher res_146
+  - first:
+      213: -4700939601687607078
+    second: platformer base pack tiles higher res_147
+  - first:
+      213: -3186841516328055931
+    second: platformer base pack tiles higher res_148
+  - first:
+      213: 6067343595585172477
+    second: platformer base pack tiles higher res_149
+  - first:
+      213: -8769263684429265917
+    second: platformer base pack tiles higher res_150
+  - first:
+      213: 6592421616221560195
+    second: platformer base pack tiles higher res_151
+  - first:
+      213: 6850883121575871663
+    second: platformer base pack tiles higher res_152
+  - first:
+      213: 3548212527905757397
+    second: platformer base pack tiles higher res_153
+  - first:
+      213: -2742889778031648871
+    second: platformer base pack tiles higher res_154
+  - first:
+      213: -5918060085265771395
+    second: platformer base pack tiles higher res_155
+  - first:
+      213: 6594690588599167033
+    second: platformer base pack tiles higher res_156
+  - first:
+      213: 2198761953616559609
+    second: platformer base pack tiles higher res_157
+  - first:
+      213: -6199775281200474537
+    second: platformer base pack tiles higher res_158
+  - first:
+      213: -6087338696047118974
+    second: platformer base pack tiles higher res_159
+  - first:
+      213: 8058972456684587858
+    second: platformer base pack tiles higher res_160
+  - first:
+      213: 4957010932411821439
+    second: platformer base pack tiles higher res_161
+  - first:
+      213: -6341072112458982413
+    second: platformer base pack tiles higher res_162
+  - first:
+      213: -3396195703835609417
+    second: platformer base pack tiles higher res_163
+  - first:
+      213: -3348051680458025693
+    second: platformer base pack tiles higher res_164
+  - first:
+      213: 3537250908816818417
+    second: platformer base pack tiles higher res_165
+  - first:
+      213: 8980574969338644076
+    second: platformer base pack tiles higher res_166
+  - first:
+      213: 2869154801520077583
+    second: platformer base pack tiles higher res_167
+  - first:
+      213: 5974828316005184191
+    second: platformer base pack tiles higher res_168
+  - first:
+      213: 4084975361066135016
+    second: platformer base pack tiles higher res_169
+  - first:
+      213: 8797237127038370785
+    second: platformer base pack tiles higher res_170
+  - first:
+      213: -1965078798352265544
+    second: platformer base pack tiles higher res_171
+  - first:
+      213: -7521827687246153982
+    second: platformer base pack tiles higher res_172
+  - first:
+      213: -5680410740523401971
+    second: platformer base pack tiles higher res_173
+  - first:
+      213: -2994049948543621518
+    second: platformer base pack tiles higher res_174
+  - first:
+      213: 5849273072261181033
+    second: platformer base pack tiles higher res_175
+  - first:
+      213: 1363012063893419303
+    second: platformer base pack tiles higher res_176
+  - first:
+      213: -1974794599913188276
+    second: platformer base pack tiles higher res_177
+  - first:
+      213: 2330969092809089162
+    second: platformer base pack tiles higher res_178
+  - first:
+      213: 7469307976370643946
+    second: platformer base pack tiles higher res_179
+  - first:
+      213: 6934811601344738291
+    second: platformer base pack tiles higher res_180
+  - first:
+      213: 7197502673662866209
+    second: platformer base pack tiles higher res_181
+  - first:
+      213: -1017119602623188728
+    second: platformer base pack tiles higher res_182
+  - first:
+      213: -1164621376526677298
+    second: platformer base pack tiles higher res_183
+  - first:
+      213: 5652275577084198525
+    second: platformer base pack tiles higher res_184
+  - first:
+      213: -4331821616765335864
+    second: platformer base pack tiles higher res_185
+  - first:
+      213: 9168719592518231713
+    second: platformer base pack tiles higher res_186
+  - first:
+      213: -5476283155001950640
+    second: platformer base pack tiles higher res_187
+  - first:
+      213: -8629512956299540537
+    second: platformer base pack tiles higher res_188
+  - first:
+      213: 3769931302008040225
+    second: platformer base pack tiles higher res_189
+  - first:
+      213: 6727260723598416268
+    second: platformer base pack tiles higher res_190
+  - first:
+      213: -1527949403393840580
+    second: platformer base pack tiles higher res_191
+  - first:
+      213: 7836845636888704142
+    second: platformer base pack tiles higher res_192
+  - first:
+      213: 928862850864334300
+    second: platformer base pack tiles higher res_193
+  - first:
+      213: 6913828056514628988
+    second: platformer base pack tiles higher res_194
+  - first:
+      213: -4659899942492220993
+    second: platformer base pack tiles higher res_195
+  - first:
+      213: 1468893747504433514
+    second: platformer base pack tiles higher res_196
+  - first:
+      213: -2544327622187151245
+    second: platformer base pack tiles higher res_197
+  - first:
+      213: -4530354009107078783
+    second: platformer base pack tiles higher res_198
+  - first:
+      213: 1280797947052017152
+    second: platformer base pack tiles higher res_199
+  - first:
+      213: -979394393889179789
+    second: platformer base pack tiles higher res_200
+  - first:
+      213: -9016135997326803000
+    second: platformer base pack tiles higher res_201
+  - first:
+      213: -4422566121768491042
+    second: platformer base pack tiles higher res_202
+  - first:
+      213: 2065051148030310203
+    second: platformer base pack tiles higher res_203
+  - first:
+      213: 2613008241768479379
+    second: platformer base pack tiles higher res_204
+  - first:
+      213: -3181815720642749346
+    second: platformer base pack tiles higher res_205
+  - first:
+      213: -2982687409540571647
+    second: platformer base pack tiles higher res_206
+  - first:
+      213: 1067687409881990633
+    second: platformer base pack tiles higher res_207
+  - first:
+      213: 5303029893713523672
+    second: platformer base pack tiles higher res_208
+  - first:
+      213: 1261501991065355151
+    second: platformer base pack tiles higher res_209
+  - first:
+      213: 482036565367209321
+    second: platformer base pack tiles higher res_210
+  - first:
+      213: -578296780250576349
+    second: platformer base pack tiles higher res_211
+  - first:
+      213: 6776387703953498669
+    second: platformer base pack tiles higher res_212
+  - first:
+      213: 9058392569336215716
+    second: platformer base pack tiles higher res_213
+  - first:
+      213: 1364267458588791940
+    second: platformer base pack tiles higher res_214
+  - first:
+      213: -7763271163863053228
+    second: platformer base pack tiles higher res_215
+  - first:
+      213: -8924420195636655109
+    second: platformer base pack tiles higher res_216
+  - first:
+      213: 6530121546625942844
+    second: platformer base pack tiles higher res_217
+  - first:
+      213: -1311649114712733712
+    second: platformer base pack tiles higher res_218
+  - first:
+      213: 9127852283811900790
+    second: platformer base pack tiles higher res_219
+  - first:
+      213: 7348610589974684350
+    second: platformer base pack tiles higher res_220
+  - first:
+      213: 4816852860171107119
+    second: platformer base pack tiles higher res_221
+  - first:
+      213: 7573371658259428024
+    second: platformer base pack tiles higher res_222
+  - first:
+      213: 589913151510008214
+    second: platformer base pack tiles higher res_223
+  - first:
+      213: -1167617630951891704
+    second: platformer base pack tiles higher res_224
+  - first:
+      213: -4307386910678418655
+    second: platformer base pack tiles higher res_225
+  - first:
+      213: -4893089314102976924
+    second: platformer base pack tiles higher res_226
+  - first:
+      213: -6572553949111502774
+    second: platformer base pack tiles higher res_227
+  - first:
+      213: 1763217397838591554
+    second: platformer base pack tiles higher res_228
+  - first:
+      213: 8519291477139391170
+    second: platformer base pack tiles higher res_229
+  - first:
+      213: 3329443017682254874
+    second: platformer base pack tiles higher res_230
+  - first:
+      213: -7212444273323826102
+    second: platformer base pack tiles higher res_231
+  - first:
+      213: -1555923342498008334
+    second: platformer base pack tiles higher res_232
+  - first:
+      213: -6476192180899467867
+    second: platformer base pack tiles higher res_233
+  - first:
+      213: -7436173176371496726
+    second: platformer base pack tiles higher res_234
+  - first:
+      213: 4755520471193731862
+    second: platformer base pack tiles higher res_235
+  - first:
+      213: -6004798683312070336
+    second: platformer base pack tiles higher res_236
+  - first:
+      213: -6442632774861749382
+    second: platformer base pack tiles higher res_237
+  - first:
+      213: 8361528733396111488
+    second: platformer base pack tiles higher res_238
+  - first:
+      213: 5289627662921313176
+    second: platformer base pack tiles higher res_239
+  - first:
+      213: -6647926337262107981
+    second: platformer base pack tiles higher res_240
+  - first:
+      213: 324593025332874482
+    second: platformer base pack tiles higher res_241
+  - first:
+      213: 1509825297086459630
+    second: platformer base pack tiles higher res_242
+  - first:
+      213: 6784585662231951023
+    second: platformer base pack tiles higher res_243
+  - first:
+      213: -8843601706217123951
+    second: platformer base pack tiles higher res_244
+  - first:
+      213: -1952302602580537642
+    second: platformer base pack tiles higher res_245
+  - first:
+      213: 3386869469131964786
+    second: platformer base pack tiles higher res_246
+  - first:
+      213: -3943670235914406619
+    second: platformer base pack tiles higher res_247
+  - first:
+      213: 818769465781056700
+    second: platformer base pack tiles higher res_248
+  - first:
+      213: -7312517112802210961
+    second: platformer base pack tiles higher res_249
+  - first:
+      213: -7848392715543339753
+    second: platformer base pack tiles higher res_250
+  - first:
+      213: -5650338794053946833
+    second: platformer base pack tiles higher res_251
+  - first:
+      213: -8800449256987383219
+    second: platformer base pack tiles higher res_252
+  - first:
+      213: 1518658244585174867
+    second: platformer base pack tiles higher res_253
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 439
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 7116
+        width: 292
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef82b184f46c6d4c0800000000000000
+      internalID: -4263001953445140226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_1
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 7116
+        width: 292
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00545faa53810ada0800000000000000
+      internalID: -5935717690093779712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_2
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 7116
+        width: 292
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8284bbb9463c2fd00800000000000000
+      internalID: 1005080503733930024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_3
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 7116
+        width: 292
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9231f3071878beb50800000000000000
+      internalID: 6623536666982159145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6770
+        width: 297
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647e6189f0fd44d60800000000000000
+      internalID: 7873663306619610950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_5
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 6770
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731e8f888423b6d10800000000000000
+      internalID: 2119843336724996407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_6
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 6770
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbd720044918da60800000000000000
+      internalID: 7698931342840945602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_7
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 6770
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d4ea319f365a900800000000000000
+      internalID: 695071638926806322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_8
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 6770
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be9e3f83bf97f540800000000000000
+      internalID: 5041673901415767728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_9
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 6770
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a2a625377e6c8e0800000000000000
+      internalID: -1673395729031615928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_10
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 6770
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25229287dcee0520800000000000000
+      internalID: 2670332039430022446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_11
+      rect:
+        serializedVersion: 2
+        x: 2442
+        y: 6771
+        width: 329
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d13168cd15b5940800000000000000
+      internalID: 5285908595233463690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_12
+      rect:
+        serializedVersion: 2
+        x: 2819
+        y: 6771
+        width: 330
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed0751962f689690800000000000000
+      internalID: -7595198560122499616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_13
+      rect:
+        serializedVersion: 2
+        x: 3197
+        y: 6771
+        width: 329
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfa08200d6f77280800000000000000
+      internalID: -9045489953294733355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_14
+      rect:
+        serializedVersion: 2
+        x: 3695
+        y: 6805
+        width: 278
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7173583e21bf99980800000000000000
+      internalID: -8531511960531552489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_15
+      rect:
+        serializedVersion: 2
+        x: 4009
+        y: 6805
+        width: 278
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec00f5f5d5450a60800000000000000
+      internalID: 7639589128160414953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_16
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 6805
+        width: 278
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231b687003f6d1170800000000000000
+      internalID: 8150793152685846834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_17
+      rect:
+        serializedVersion: 2
+        x: 4639
+        y: 6805
+        width: 278
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbeeec5f326df0e0800000000000000
+      internalID: -2234521815824274487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_18
+      rect:
+        serializedVersion: 2
+        x: 5016
+        y: 6805
+        width: 279
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb76d8a502f95080800000000000000
+      internalID: -9198054657806140439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_19
+      rect:
+        serializedVersion: 2
+        x: 5331
+        y: 6805
+        width: 278
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1918642d3374bcc60800000000000000
+      internalID: 7839437864265220497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_20
+      rect:
+        serializedVersion: 2
+        x: 5646
+        y: 6805
+        width: 278
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed58814bdd520ef0800000000000000
+      internalID: -143449041843757593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_21
+      rect:
+        serializedVersion: 2
+        x: 5960
+        y: 6805
+        width: 279
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71a54675d49d6a70800000000000000
+      internalID: 8821870889621889406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_22
+      rect:
+        serializedVersion: 2
+        x: 6417
+        y: 6826
+        width: 181
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879c84477ee2c6e10800000000000000
+      internalID: 2192178690245839224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_23
+      rect:
+        serializedVersion: 2
+        x: 6651
+        y: 6805
+        width: 186
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608653303ff5125f0800000000000000
+      internalID: -783239362850232314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_24
+      rect:
+        serializedVersion: 2
+        x: 6876
+        y: 6806
+        width: 161
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ffa0c846e222070800000000000000
+      internalID: 8080071690837229412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_25
+      rect:
+        serializedVersion: 2
+        x: 7103
+        y: 6805
+        width: 194
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7448af0634dc14030800000000000000
+      internalID: 3477286076580267079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_26
+      rect:
+        serializedVersion: 2
+        x: 7360
+        y: 6801
+        width: 173
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aac928e243083e60800000000000000
+      internalID: 7942101528765647520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_27
+      rect:
+        serializedVersion: 2
+        x: 7594
+        y: 6802
+        width: 178
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544f0169638cf0f70800000000000000
+      internalID: 9155756704238990405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_28
+      rect:
+        serializedVersion: 2
+        x: 7835
+        y: 6802
+        width: 179
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861b1b51e48527e60800000000000000
+      internalID: 7958520583911747944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_29
+      rect:
+        serializedVersion: 2
+        x: 8071
+        y: 6801
+        width: 187
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23f1de1a7a2ab220800000000000000
+      internalID: 2502359246949184299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_30
+      rect:
+        serializedVersion: 2
+        x: 8311
+        y: 6800
+        width: 195
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b57ee5326199a190800000000000000
+      internalID: -7950663816148257352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_31
+      rect:
+        serializedVersion: 2
+        x: 8554
+        y: 6797
+        width: 199
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94e79a43f754b030800000000000000
+      internalID: 3509526712068596890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_32
+      rect:
+        serializedVersion: 2
+        x: 8803
+        y: 6799
+        width: 197
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0acdbdb6fea59c90800000000000000
+      internalID: -7163627257494386165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6228
+        width: 442
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382fc7d1d369c2980800000000000000
+      internalID: -8562303602306256253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_34
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 6228
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0496856b8130bd80800000000000000
+      internalID: -8237029243687103477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_35
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 6228
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cce1aee76703e490800000000000000
+      internalID: -7718317193416282937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_36
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 6228
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ac92d3b0da01fe0800000000000000
+      internalID: -1220285235235009935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_37
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 6228
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794c6d2e9ba2343b0800000000000000
+      internalID: -5529528939617794921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_38
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 6228
+        width: 444
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe10227d34289760800000000000000
+      internalID: 7464756228692909823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_39
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 6228
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb989baff55fc5530800000000000000
+      internalID: 3845217974444722623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_40
+      rect:
+        serializedVersion: 2
+        x: 3523
+        y: 6416
+        width: 443
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabac37a0b3fe5280800000000000000
+      internalID: -9052530260922553426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_41
+      rect:
+        serializedVersion: 2
+        x: 4027
+        y: 6416
+        width: 443
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d403ce754cfef6c40800000000000000
+      internalID: 5507884495865131085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_42
+      rect:
+        serializedVersion: 2
+        x: 4530
+        y: 6228
+        width: 443
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4eda8465eb84ba0800000000000000
+      internalID: -6104420017104886580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_43
+      rect:
+        serializedVersion: 2
+        x: 5034
+        y: 6228
+        width: 443
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4966180586522d620800000000000000
+      internalID: 2797339448507983508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_44
+      rect:
+        serializedVersion: 2
+        x: 5537
+        y: 6228
+        width: 443
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527067d2b9570efc0800000000000000
+      internalID: -3467642403732191451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_45
+      rect:
+        serializedVersion: 2
+        x: 6041
+        y: 6228
+        width: 443
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5cbf364e53eb920800000000000000
+      internalID: 3007900856176330238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_46
+      rect:
+        serializedVersion: 2
+        x: 6576
+        y: 6354
+        width: 378
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6262d4294b05e10800000000000000
+      internalID: 2184444359727261376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_47
+      rect:
+        serializedVersion: 2
+        x: 7079
+        y: 6354
+        width: 379
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4d4210993c65480800000000000000
+      internalID: -8910719750789344079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_48
+      rect:
+        serializedVersion: 2
+        x: 8175
+        y: 6235
+        width: 200
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e271b8b1ef9b24970800000000000000
+      internalID: 8737750728087115566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_49
+      rect:
+        serializedVersion: 2
+        x: 8659
+        y: 6235
+        width: 241
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e426a7cd385699890800000000000000
+      internalID: -7450812491493645746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_50
+      rect:
+        serializedVersion: 2
+        x: 7602
+        y: 6235
+        width: 342
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebf887a63fbbb500800000000000000
+      internalID: 413134032294444007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5725
+        width: 442
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81f9ca4055defe50800000000000000
+      internalID: 6845143024478581132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_52
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 5725
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e2c2042ffaa32e0800000000000000
+      internalID: -2145208817495036371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_53
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 5725
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be62a2eb3f2f6800800000000000000
+      internalID: 607756408970178232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_54
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 5725
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa80f2373a5b8020800000000000000
+      internalID: 2345067224100801187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_55
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 5725
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b3167105fd3c6c0800000000000000
+      internalID: -4124207298658616421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_56
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 5725
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dcfd05317b27b200800000000000000
+      internalID: 195672874035313876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_57
+      rect:
+        serializedVersion: 2
+        x: 3021
+        y: 5725
+        width: 442
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856a4f53e99e77a70800000000000000
+      internalID: 8824778860575106648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_58
+      rect:
+        serializedVersion: 2
+        x: 3523
+        y: 5912
+        width: 443
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dea277a72b4289f0800000000000000
+      internalID: -467728777607991591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_59
+      rect:
+        serializedVersion: 2
+        x: 4027
+        y: 5912
+        width: 443
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d4f416dcabbbf20800000000000000
+      internalID: 3439548131691154711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_60
+      rect:
+        serializedVersion: 2
+        x: 4530
+        y: 5731
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1741227c59103f0800000000000000
+      internalID: -936302565013556826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_61
+      rect:
+        serializedVersion: 2
+        x: 5537
+        y: 5731
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f14b4b7f9c72ad0800000000000000
+      internalID: -2726988983623737514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_62
+      rect:
+        serializedVersion: 2
+        x: 6576
+        y: 5850
+        width: 378
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c98c073709016f20800000000000000
+      internalID: 3414019919116536258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_63
+      rect:
+        serializedVersion: 2
+        x: 7079
+        y: 5850
+        width: 379
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a79ef1b95749e120800000000000000
+      internalID: 2443562723389118375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_64
+      rect:
+        serializedVersion: 2
+        x: 8558
+        y: 5731
+        width: 442
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df0fd3dd0a768960800000000000000
+      internalID: 7603899220669435862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_65
+      rect:
+        serializedVersion: 2
+        x: 5034
+        y: 5731
+        width: 443
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 119, y: 0, z: 103, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76fdf4b724705e40800000000000000
+      internalID: 5643138046984320638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_66
+      rect:
+        serializedVersion: 2
+        x: 6041
+        y: 5731
+        width: 146
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2e0a128acdcfb10800000000000000
+      internalID: 2016729347831947987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_67
+      rect:
+        serializedVersion: 2
+        x: 6190
+        y: 5731
+        width: 145
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629ede99c77ff15f0800000000000000
+      internalID: -783635695608665818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_68
+      rect:
+        serializedVersion: 2
+        x: 6338
+        y: 5731
+        width: 146
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce47841e70e60410800000000000000
+      internalID: 1443087562733735619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_69
+      rect:
+        serializedVersion: 2
+        x: 7551
+        y: 5731
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1991f0ceb594c42b0800000000000000
+      internalID: -5599019577577105007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_70
+      rect:
+        serializedVersion: 2
+        x: 8055
+        y: 5731
+        width: 442
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c49b724bd0fc790800000000000000
+      internalID: -7507766986391598050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5221
+        width: 442
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23997d17729e982e0800000000000000
+      internalID: -2122909393705526990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_72
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 5221
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d19331ab63468a0800000000000000
+      internalID: -6312860604852265637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_73
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 5221
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3a045c143fe0d50800000000000000
+      internalID: 6705564359009018852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_74
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 5221
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad8cd1ed21a6cd30800000000000000
+      internalID: 4451422500137242027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_75
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 5221
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223fb86cebf4b1cf0800000000000000
+      internalID: -280542870987082974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_76
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 5221
+        width: 444
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca714e2a4d7addcc0800000000000000
+      internalID: -3684604388411435092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_77
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 5221
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce53eb8a05159260800000000000000
+      internalID: 7103607122287615688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_78
+      rect:
+        serializedVersion: 2
+        x: 3523
+        y: 5409
+        width: 443
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f795bd9e09917b70800000000000000
+      internalID: 8895059027087955957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_79
+      rect:
+        serializedVersion: 2
+        x: 4027
+        y: 5409
+        width: 443
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec403e86fb06c9740800000000000000
+      internalID: 5160105648274474190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_80
+      rect:
+        serializedVersion: 2
+        x: 4530
+        y: 5221
+        width: 443
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e5414dc1efc3950800000000000000
+      internalID: 6430293767748869781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_81
+      rect:
+        serializedVersion: 2
+        x: 5047
+        y: 5221
+        width: 416
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ec7306e353204b0800000000000000
+      internalID: -5475755654910587378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_82
+      rect:
+        serializedVersion: 2
+        x: 5551
+        y: 5221
+        width: 416
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d713960168c4011e0800000000000000
+      internalID: -2229197676863737475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_83
+      rect:
+        serializedVersion: 2
+        x: 6204
+        y: 5227
+        width: 116
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84e3eacc36994ae0800000000000000
+      internalID: -1564554207688399733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_84
+      rect:
+        serializedVersion: 2
+        x: 6544
+        y: 5221
+        width: 443
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749dfd0f99cdea8c0800000000000000
+      internalID: -3986006066447001273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_85
+      rect:
+        serializedVersion: 2
+        x: 7048
+        y: 5221
+        width: 443
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a85b1c2c30325710800000000000000
+      internalID: 1680458645958776999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_86
+      rect:
+        serializedVersion: 2
+        x: 7661
+        y: 5325
+        width: 223
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b683df9abd127a0800000000000000
+      internalID: -6403595671999845594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_87
+      rect:
+        serializedVersion: 2
+        x: 8165
+        y: 5325
+        width: 222
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371d7b2497ca847b0800000000000000
+      internalID: -5239748529635208845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_88
+      rect:
+        serializedVersion: 2
+        x: 8669
+        y: 5325
+        width: 222
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e691a944ece9180800000000000000
+      internalID: -9106614602458108332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4718
+        width: 442
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4da37ba70a740350800000000000000
+      internalID: 5982040378414705997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_90
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 4718
+        width: 443
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b965f2c2679585d0800000000000000
+      internalID: -3060873921294931529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_91
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 4718
+        width: 443
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42cc3b8977385d4e0800000000000000
+      internalID: -1957513913336345564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_92
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 4718
+        width: 443
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547000a9abbbcf400800000000000000
+      internalID: 359368480404801349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_93
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 4718
+        width: 443
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a19428691650cc0800000000000000
+      internalID: -3745480216029881815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_94
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 4718
+        width: 443
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a07fce56d558930800000000000000
+      internalID: 4144821724413102729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_95
+      rect:
+        serializedVersion: 2
+        x: 3021
+        y: 4718
+        width: 442
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38d66d028194f4a0800000000000000
+      internalID: -6560458769415350211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_96
+      rect:
+        serializedVersion: 2
+        x: 3523
+        y: 4906
+        width: 443
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89298269d4a7dc350800000000000000
+      internalID: 6038617149024015000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_97
+      rect:
+        serializedVersion: 2
+        x: 4027
+        y: 4906
+        width: 443
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de01c46cea950990800000000000000
+      internalID: -7420354470929690919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_98
+      rect:
+        serializedVersion: 2
+        x: 4530
+        y: 4718
+        width: 443
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15305fd3d7a5c0970800000000000000
+      internalID: 8722446072266687313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_99
+      rect:
+        serializedVersion: 2
+        x: 5034
+        y: 4718
+        width: 443
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583a1221688687520800000000000000
+      internalID: 2700022901647713157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_100
+      rect:
+        serializedVersion: 2
+        x: 5537
+        y: 4718
+        width: 443
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d15701d8c27a280800000000000000
+      internalID: -9032201543290118888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_101
+      rect:
+        serializedVersion: 2
+        x: 6041
+        y: 4718
+        width: 443
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f359eba770af4d50800000000000000
+      internalID: 6723769204533187568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_102
+      rect:
+        serializedVersion: 2
+        x: 6544
+        y: 4718
+        width: 443
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f181aba9af5b1910800000000000000
+      internalID: 1809144857652986353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_103
+      rect:
+        serializedVersion: 2
+        x: 7043
+        y: 4723
+        width: 443
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea8139b3fd9d6c90800000000000000
+      internalID: -7174904961221686552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_105
+      rect:
+        serializedVersion: 2
+        x: 8152
+        y: 4724
+        width: 248
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8baf3df96887725b0800000000000000
+      internalID: -5393209509150459208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_106
+      rect:
+        serializedVersion: 2
+        x: 8656
+        y: 4724
+        width: 248
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d748878120386eb40800000000000000
+      internalID: 5469202842511770749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4214
+        width: 442
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffabdf1d57e37b470800000000000000
+      internalID: 8410259504892852991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_108
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 4214
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabe1d62e2f62ec60800000000000000
+      internalID: 7845955744843295658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_109
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 4214
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961eaa777017a6720800000000000000
+      internalID: 2840206791896916329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_110
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 4214
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1761798ac0dd76260800000000000000
+      internalID: 7090879184755955313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_111
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 4214
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ab05af563a1c4d0800000000000000
+      internalID: -3116029808777053563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_112
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 4214
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ccda57807d529180800000000000000
+      internalID: -9110116358328492861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_113
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 4214
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767e7af69b00fba80800000000000000
+      internalID: -8449033579481536665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_114
+      rect:
+        serializedVersion: 2
+        x: 3523
+        y: 4403
+        width: 443
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2c973f4791a4b50800000000000000
+      internalID: 6578098195819774639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_115
+      rect:
+        serializedVersion: 2
+        x: 4027
+        y: 4403
+        width: 443
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc0acfb836086120800000000000000
+      internalID: 2407180841635155167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_116
+      rect:
+        serializedVersion: 2
+        x: 4530
+        y: 4214
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a20fdf0de4062e00800000000000000
+      internalID: 1019507781866029730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_117
+      rect:
+        serializedVersion: 2
+        x: 5034
+        y: 4214
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e775360d38732fe0800000000000000
+      internalID: -1214995270967396381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_118
+      rect:
+        serializedVersion: 2
+        x: 5537
+        y: 4214
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a34f4cc59ec6c350800000000000000
+      internalID: 6036739493309924262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_119
+      rect:
+        serializedVersion: 2
+        x: 6041
+        y: 4214
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47d82abe608bb530800000000000000
+      internalID: 3871829517713069898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_120
+      rect:
+        serializedVersion: 2
+        x: 7551
+        y: 4214
+        width: 443
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ca762909bda4e00800000000000000
+      internalID: 1029876878785621069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_121
+      rect:
+        serializedVersion: 2
+        x: 8054
+        y: 4220
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7611d3bb93b3ee2c0800000000000000
+      internalID: -4400514666753879705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_122
+      rect:
+        serializedVersion: 2
+        x: 8703
+        y: 4359
+        width: 141
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1357534f5c3955eb0800000000000000
+      internalID: -4731713355067853519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_123
+      rect:
+        serializedVersion: 2
+        x: 6544
+        y: 4214
+        width: 443
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfda4d5a2ba17490800000000000000
+      internalID: -7750225285285748784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_124
+      rect:
+        serializedVersion: 2
+        x: 7048
+        y: 4214
+        width: 443
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce14e9fc9d9afdb80800000000000000
+      internalID: -8367782829674839572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3711
+        width: 442
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f76c5d96d28d51d0800000000000000
+      internalID: -3360385888673830921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_126
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 3711
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53d49caa509e5190800000000000000
+      internalID: -7971775571282308257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_127
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 3711
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a7d63b6ae998830800000000000000
+      internalID: 4073961776745380437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_128
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 3711
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2dbcf9e094645db0800000000000000
+      internalID: -4804104328933753554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_129
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 3711
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ded6cb6d387acf0800000000000000
+      internalID: -241079096733471401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_130
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 3711
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5adc8c09f7f26c0800000000000000
+      internalID: -4165970870473480710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_131
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 3711
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33aacf77c4466eb40800000000000000
+      internalID: 5469169077081385523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_132
+      rect:
+        serializedVersion: 2
+        x: 3523
+        y: 3900
+        width: 443
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a2bb8bc717025c0800000000000000
+      internalID: -4242266068493850024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_133
+      rect:
+        serializedVersion: 2
+        x: 4027
+        y: 3900
+        width: 443
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02935ff971ce715d0800000000000000
+      internalID: -3091743032954504928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_134
+      rect:
+        serializedVersion: 2
+        x: 4530
+        y: 3711
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449857b32fb789490800000000000000
+      internalID: -7739299679326336700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_135
+      rect:
+        serializedVersion: 2
+        x: 5034
+        y: 3711
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340443380f92a37a0800000000000000
+      internalID: -6396754207756238781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_136
+      rect:
+        serializedVersion: 2
+        x: 5537
+        y: 3711
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26200a6ce7acb3d00800000000000000
+      internalID: 953578391966057058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_137
+      rect:
+        serializedVersion: 2
+        x: 6041
+        y: 3711
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45a6c08c5b5d9590800000000000000
+      internalID: -7665870537859095218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_138
+      rect:
+        serializedVersion: 2
+        x: 7551
+        y: 3717
+        width: 443
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5751c0d0359a0e180800000000000000
+      internalID: -9088077873867385483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_139
+      rect:
+        serializedVersion: 2
+        x: 8054
+        y: 3717
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fb3b0eb8ed47a80800000000000000
+      internalID: -8469900306825363673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_140
+      rect:
+        serializedVersion: 2
+        x: 8584
+        y: 3717
+        width: 386
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0555e9db100f4e770800000000000000
+      internalID: 8639293875470357840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_141
+      rect:
+        serializedVersion: 2
+        x: 6544
+        y: 3711
+        width: 443
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb9964301bda9c50800000000000000
+      internalID: 6672886660548107234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_142
+      rect:
+        serializedVersion: 2
+        x: 7048
+        y: 3711
+        width: 443
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b1a2626130ac8e0800000000000000
+      internalID: -1672520917950260469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3207
+        width: 442
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587ab5375ec697b60800000000000000
+      internalID: 7744340766978975621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_144
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 3207
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b166e081463804db0800000000000000
+      internalID: -4809699936108124645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_145
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 3207
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30d2921627ca6610800000000000000
+      internalID: 1615322382700040255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_146
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 3207
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c69c3d31acf2710800000000000000
+      internalID: 1670776173284125771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_147
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 3207
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad808d2c658e2ceb0800000000000000
+      internalID: -4700939601687607078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_148
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 3207
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b8cc7868016c3d0800000000000000
+      internalID: -3186841516328055931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_149
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 3207
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df37811aad8833450800000000000000
+      internalID: 6067343595585172477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_150
+      rect:
+        serializedVersion: 2
+        x: 3523
+        y: 3396
+        width: 443
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3044cdbf3215d4680800000000000000
+      internalID: -8769263684429265917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_151
+      rect:
+        serializedVersion: 2
+        x: 4027
+        y: 3396
+        width: 443
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d1e74288cfc7b50800000000000000
+      internalID: 6592421616221560195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_152
+      rect:
+        serializedVersion: 2
+        x: 4530
+        y: 3207
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4cf3bc6e9331f50800000000000000
+      internalID: 6850883121575871663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_153
+      rect:
+        serializedVersion: 2
+        x: 5034
+        y: 3207
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8d961be78cd3130800000000000000
+      internalID: 3548212527905757397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_154
+      rect:
+        serializedVersion: 2
+        x: 5537
+        y: 3207
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f9f52874c4fe9d0800000000000000
+      internalID: -2742889778031648871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_155
+      rect:
+        serializedVersion: 2
+        x: 6041
+        y: 3207
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74d05a25b3dedda0800000000000000
+      internalID: -5918060085265771395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_156
+      rect:
+        serializedVersion: 2
+        x: 6544
+        y: 3207
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938a011762c058b50800000000000000
+      internalID: 6594690588599167033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_157
+      rect:
+        serializedVersion: 2
+        x: 7048
+        y: 3207
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd75f6e852938e10800000000000000
+      internalID: 2198761953616559609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_158
+      rect:
+        serializedVersion: 2
+        x: 7551
+        y: 2710
+        width: 305
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7565cc4ca39f5f9a0800000000000000
+      internalID: -6199775281200474537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_159
+      rect:
+        serializedVersion: 2
+        x: 8281
+        y: 2710
+        width: 305
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 211, z: 0, w: 186}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2853f9245bd658ba0800000000000000
+      internalID: -6087338696047118974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2704
+        width: 442
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b875740c837df60800000000000000
+      internalID: 8058972456684587858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_161
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 2704
+        width: 443
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d622efd27dac440800000000000000
+      internalID: 4957010932411821439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_162
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 2704
+        width: 443
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb1fb9928cfff7a0800000000000000
+      internalID: -6341072112458982413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_163
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 2704
+        width: 443
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6bb2d400a4ed0d0800000000000000
+      internalID: -3396195703835609417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_164
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 2704
+        width: 443
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32556a04cb45981d0800000000000000
+      internalID: -3348051680458025693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_165
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 2704
+        width: 443
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0447dd5f6d61130800000000000000
+      internalID: 3537250908816818417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_166
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 2704
+        width: 443
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66c13e7a5961ac70800000000000000
+      internalID: 8980574969338644076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_167
+      rect:
+        serializedVersion: 2
+        x: 3523
+        y: 2892
+        width: 443
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0be53e271941d720800000000000000
+      internalID: 2869154801520077583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_168
+      rect:
+        serializedVersion: 2
+        x: 4027
+        y: 2892
+        width: 443
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb23f6982badae250800000000000000
+      internalID: 5974828316005184191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_169
+      rect:
+        serializedVersion: 2
+        x: 4530
+        y: 2704
+        width: 443
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ede190a27fb0b830800000000000000
+      internalID: 4084975361066135016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_170
+      rect:
+        serializedVersion: 2
+        x: 5179
+        y: 2962
+        width: 121
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3000aae80161a70800000000000000
+      internalID: 8797237127038370785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_171
+      rect:
+        serializedVersion: 2
+        x: 5537
+        y: 2704
+        width: 443
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8becf8c8e33aab4e0800000000000000
+      internalID: -1965078798352265544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_172
+      rect:
+        serializedVersion: 2
+        x: 6186
+        y: 2962
+        width: 122
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207beff12991d9790800000000000000
+      internalID: -7521827687246153982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_173
+      rect:
+        serializedVersion: 2
+        x: 6544
+        y: 2704
+        width: 443
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0df9c017802b21b0800000000000000
+      internalID: -5680410740523401971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_174
+      rect:
+        serializedVersion: 2
+        x: 7048
+        y: 2704
+        width: 443
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276e7495f6ff276d0800000000000000
+      internalID: -2994049948543621518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_175
+      rect:
+        serializedVersion: 2
+        x: 7916
+        y: 2710
+        width: 305
+        height: 669
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ea2625edacc2150800000000000000
+      internalID: 5849273072261181033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_176
+      rect:
+        serializedVersion: 2
+        x: 8646
+        y: 2710
+        width: 305
+        height: 669
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72570f420446ae210800000000000000
+      internalID: 1363012063893419303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_177
+      rect:
+        serializedVersion: 2
+        x: 5172
+        y: 2754
+        width: 135
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4490d736ce1894e0800000000000000
+      internalID: -1974794599913188276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_178
+      rect:
+        serializedVersion: 2
+        x: 6179
+        y: 2754
+        width: 135
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80ec473a04495020800000000000000
+      internalID: 2330969092809089162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_179
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2200
+        width: 442
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae36099c70058a760800000000000000
+      internalID: 7469307976370643946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_180
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 2200
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f33962c8666d3060800000000000000
+      internalID: 6934811601344738291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_181
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 2200
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12379953c8aa2e360800000000000000
+      internalID: 7197502673662866209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_182
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 2200
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801fe8f3c1772e1f0800000000000000
+      internalID: -1017119602623188728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_183
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 2200
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca0d4a470f66dfe0800000000000000
+      internalID: -1164621376526677298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_184
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 2200
+        width: 444
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e38b8b0bae07e40800000000000000
+      internalID: 5652275577084198525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_185
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 2200
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c60856c03742e3c0800000000000000
+      internalID: -4331821616765335864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_186
+      rect:
+        serializedVersion: 2
+        x: 3523
+        y: 2388
+        width: 443
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6a63534e5dd3f70800000000000000
+      internalID: 9168719592518231713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_187
+      rect:
+        serializedVersion: 2
+        x: 4027
+        y: 2388
+        width: 443
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e37a03c755004b0800000000000000
+      internalID: -5476283155001950640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_188
+      rect:
+        serializedVersion: 2
+        x: 4555
+        y: 2200
+        width: 420
+        height: 365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c78227ffafcd3880800000000000000
+      internalID: -8629512956299540537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_189
+      rect:
+        serializedVersion: 2
+        x: 5059
+        y: 2200
+        width: 392
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ba0d39b8c715430800000000000000
+      internalID: 3769931302008040225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_190
+      rect:
+        serializedVersion: 2
+        x: 5536
+        y: 2200
+        width: 419
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89558d4cf70c5d50800000000000000
+      internalID: 6727260723598416268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_191
+      rect:
+        serializedVersion: 2
+        x: 6041
+        y: 2200
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3aa0ffec12abcae0800000000000000
+      internalID: -1527949403393840580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_192
+      rect:
+        serializedVersion: 2
+        x: 6544
+        y: 2200
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84325ad59112cc60800000000000000
+      internalID: 7836845636888704142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_193
+      rect:
+        serializedVersion: 2
+        x: 7073
+        y: 2200
+        width: 399
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd543de67dbf3ec00800000000000000
+      internalID: 928862850864334300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_194
+      rect:
+        serializedVersion: 2
+        x: 7570
+        y: 2200
+        width: 399
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d0fa28cf9d2ff50800000000000000
+      internalID: 6913828056514628988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_195
+      rect:
+        serializedVersion: 2
+        x: 8101
+        y: 2200
+        width: 344
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb153e601b5b45fb0800000000000000
+      internalID: -4659899942492220993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_196
+      rect:
+        serializedVersion: 2
+        x: 8604
+        y: 2200
+        width: 344
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a694bc0b41f826410800000000000000
+      internalID: 1468893747504433514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_197
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1697
+        width: 442
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370125f028bb0bcd0800000000000000
+      internalID: -2544327622187151245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_198
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1697
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181e7641803f021c0800000000000000
+      internalID: -4530354009107078783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_199
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1697
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006c51762fe46c110800000000000000
+      internalID: 1280797947052017152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_200
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 1697
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377f931ecfd7862f0800000000000000
+      internalID: -979394393889179789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_201
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 1697
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf39b8741040e280800000000000000
+      internalID: -9016135997326803000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_202
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 1697
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7ef444b83ef92c0800000000000000
+      internalID: -4422566121768491042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_203
+      rect:
+        serializedVersion: 2
+        x: 3021
+        y: 1697
+        width: 442
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37fb59f31988ac10800000000000000
+      internalID: 2065051148030310203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_204
+      rect:
+        serializedVersion: 2
+        x: 3523
+        y: 1885
+        width: 443
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a37cdc625434420800000000000000
+      internalID: 2613008241768479379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_205
+      rect:
+        serializedVersion: 2
+        x: 4027
+        y: 1885
+        width: 443
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cd556c57be7d3d0800000000000000
+      internalID: -3181815720642749346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_206
+      rect:
+        serializedVersion: 2
+        x: 4530
+        y: 1697
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10edd4e9a9d5b96d0800000000000000
+      internalID: -2982687409540571647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_207
+      rect:
+        serializedVersion: 2
+        x: 5034
+        y: 1697
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e54c2dda0031de00800000000000000
+      internalID: 1067687409881990633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_208
+      rect:
+        serializedVersion: 2
+        x: 5537
+        y: 1697
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d372187795289940800000000000000
+      internalID: 5303029893713523672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_209
+      rect:
+        serializedVersion: 2
+        x: 6041
+        y: 1697
+        width: 443
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8306ec8061c18110800000000000000
+      internalID: 1261501991065355151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_210
+      rect:
+        serializedVersion: 2
+        x: 6544
+        y: 1697
+        width: 443
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d3677c3b980b600800000000000000
+      internalID: 482036565367209321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_211
+      rect:
+        serializedVersion: 2
+        x: 7161
+        y: 1841
+        width: 216
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a896e642a79f7f0800000000000000
+      internalID: -578296780250576349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_212
+      rect:
+        serializedVersion: 2
+        x: 7665
+        y: 1841
+        width: 216
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d222972c6b09a0e50800000000000000
+      internalID: 6776387703953498669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_213
+      rect:
+        serializedVersion: 2
+        x: 8168
+        y: 1841
+        width: 216
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8b2536c00e5bd70800000000000000
+      internalID: 9058392569336215716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_214
+      rect:
+        serializedVersion: 2
+        x: 8672
+        y: 1841
+        width: 216
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4845fcf760adee210800000000000000
+      internalID: 1364267458588791940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_215
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1193
+        width: 442
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45cc8ee0202534490800000000000000
+      internalID: -7763271163863053228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_216
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1193
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb41cc9d17162480800000000000000
+      internalID: -8924420195636655109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_217
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1193
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3583c6d2f6af9a50800000000000000
+      internalID: 6530121546625942844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_218
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 1193
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7879f54161ccde0800000000000000
+      internalID: -1311649114712733712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_219
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 1197
+        width: 443
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67da8da6a45acae70800000000000000
+      internalID: 9127852283811900790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_220
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 1193
+        width: 444
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb26d10a5628bf560800000000000000
+      internalID: 7348610589974684350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_221
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 1193
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bb2d1d726e8d240800000000000000
+      internalID: 4816852860171107119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_222
+      rect:
+        serializedVersion: 2
+        x: 3523
+        y: 1382
+        width: 443
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b27092d5650a1960800000000000000
+      internalID: 7573371658259428024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_223
+      rect:
+        serializedVersion: 2
+        x: 4027
+        y: 1382
+        width: 443
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691d514c2eacf2800800000000000000
+      internalID: 589913151510008214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_224
+      rect:
+        serializedVersion: 2
+        x: 4543
+        y: 1193
+        width: 419
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d11a173f9cbcfe0800000000000000
+      internalID: -1167617630951891704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_225
+      rect:
+        serializedVersion: 2
+        x: 5046
+        y: 1193
+        width: 419
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b78de1d661934c0800000000000000
+      internalID: -4307386910678418655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_226
+      rect:
+        serializedVersion: 2
+        x: 5550
+        y: 1193
+        width: 419
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ed1aa8131481cb0800000000000000
+      internalID: -4893089314102976924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_227
+      rect:
+        serializedVersion: 2
+        x: 6053
+        y: 1193
+        width: 419
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a483e14910999c4a0800000000000000
+      internalID: -6572553949111502774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_228
+      rect:
+        serializedVersion: 2
+        x: 6557
+        y: 1193
+        width: 419
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24635f3a1e4387810800000000000000
+      internalID: 1763217397838591554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_229
+      rect:
+        serializedVersion: 2
+        x: 7060
+        y: 1193
+        width: 419
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c208e8167a9a3670800000000000000
+      internalID: 8519291477139391170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_230
+      rect:
+        serializedVersion: 2
+        x: 7683
+        y: 1193
+        width: 179
+        height: 422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1cfad0d8ce843e20800000000000000
+      internalID: 3329443017682254874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_231
+      rect:
+        serializedVersion: 2
+        x: 8187
+        y: 1193
+        width: 178
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44ab36852048eb90800000000000000
+      internalID: -7212444273323826102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_232
+      rect:
+        serializedVersion: 2
+        x: 8691
+        y: 1193
+        width: 178
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2faa0b6ff386ae0800000000000000
+      internalID: -1555923342498008334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_233
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 690
+        width: 442
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad23581681ff16a0800000000000000
+      internalID: -6476192180899467867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_234
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 690
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8b61605e76dc890800000000000000
+      internalID: -7436173176371496726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_235
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 690
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613c9973ca00ff140800000000000000
+      internalID: 4755520471193731862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_236
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 690
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041637d896baaaca0800000000000000
+      internalID: -6004798683312070336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_237
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 693
+        width: 443
+        height: 440
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73831430ab2796a0800000000000000
+      internalID: -6442632774861749382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_238
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 690
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0801c4de41e1a0470800000000000000
+      internalID: 8361528733396111488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_239
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 690
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b21827558886940800000000000000
+      internalID: 5289627662921313176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_240
+      rect:
+        serializedVersion: 2
+        x: 3523
+        y: 878
+        width: 443
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2478ee732ddb3a0800000000000000
+      internalID: -6647926337262107981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_241
+      rect:
+        serializedVersion: 2
+        x: 4027
+        y: 878
+        width: 443
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc098303af218400800000000000000
+      internalID: 324593025332874482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_242
+      rect:
+        serializedVersion: 2
+        x: 4543
+        y: 690
+        width: 419
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeeacb9bb1af3f410800000000000000
+      internalID: 1509825297086459630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_243
+      rect:
+        serializedVersion: 2
+        x: 5046
+        y: 690
+        width: 419
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa63b89a6b0b72e50800000000000000
+      internalID: 6784585662231951023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_244
+      rect:
+        serializedVersion: 2
+        x: 5550
+        y: 690
+        width: 419
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fc3e58a17354580800000000000000
+      internalID: -8843601706217123951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_245
+      rect:
+        serializedVersion: 2
+        x: 6053
+        y: 690
+        width: 419
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6decd1f602708e4e0800000000000000
+      internalID: -1952302602580537642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_246
+      rect:
+        serializedVersion: 2
+        x: 6557
+        y: 690
+        width: 419
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2710a3876d3900f20800000000000000
+      internalID: 3386869469131964786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_247
+      rect:
+        serializedVersion: 2
+        x: 7060
+        y: 690
+        width: 419
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5257a0d90d44549c0800000000000000
+      internalID: -3943670235914406619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_248
+      rect:
+        serializedVersion: 2
+        x: 7761
+        y: 693
+        width: 30
+        height: 438
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4f0d8bd7adc5b00800000000000000
+      internalID: 818769465781056700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_249
+      rect:
+        serializedVersion: 2
+        x: 8055
+        y: 891
+        width: 443
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b8575ed68b48a90800000000000000
+      internalID: -7312517112802210961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_250
+      rect:
+        serializedVersion: 2
+        x: 8728
+        y: 690
+        width: 103
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d96446868e41390800000000000000
+      internalID: -7848392715543339753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_251
+      rect:
+        serializedVersion: 2
+        x: 3237
+        y: 0
+        width: 808
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f223ec7bdc6f591b0800000000000000
+      internalID: -5650338794053946833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_252
+      rect:
+        serializedVersion: 2
+        x: 4181
+        y: 0
+        width: 808
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4aaa6d07068ed580800000000000000
+      internalID: -8800449256987383219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer base pack tiles higher res_253
+      rect:
+        serializedVersion: 2
+        x: 5119
+        y: 0
+        width: 807
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357b7b390ab531510800000000000000
+      internalID: 1518658244585174867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: dc4aff133fe5e45bca34a41c36bcb060
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      platformer base pack tiles higher res_0: -4263001953445140226
+      platformer base pack tiles higher res_1: -5935717690093779712
+      platformer base pack tiles higher res_10: 2670332039430022446
+      platformer base pack tiles higher res_100: -9032201543290118888
+      platformer base pack tiles higher res_101: 6723769204533187568
+      platformer base pack tiles higher res_102: 1809144857652986353
+      platformer base pack tiles higher res_103: -7174904961221686552
+      platformer base pack tiles higher res_104: -7563835523131513620
+      platformer base pack tiles higher res_105: -5393209509150459208
+      platformer base pack tiles higher res_106: 5469202842511770749
+      platformer base pack tiles higher res_107: 8410259504892852991
+      platformer base pack tiles higher res_108: 7845955744843295658
+      platformer base pack tiles higher res_109: 2840206791896916329
+      platformer base pack tiles higher res_11: 5285908595233463690
+      platformer base pack tiles higher res_110: 7090879184755955313
+      platformer base pack tiles higher res_111: -3116029808777053563
+      platformer base pack tiles higher res_112: -9110116358328492861
+      platformer base pack tiles higher res_113: -8449033579481536665
+      platformer base pack tiles higher res_114: 6578098195819774639
+      platformer base pack tiles higher res_115: 2407180841635155167
+      platformer base pack tiles higher res_116: 1019507781866029730
+      platformer base pack tiles higher res_117: -1214995270967396381
+      platformer base pack tiles higher res_118: 6036739493309924262
+      platformer base pack tiles higher res_119: 3871829517713069898
+      platformer base pack tiles higher res_12: -7595198560122499616
+      platformer base pack tiles higher res_120: 1029876878785621069
+      platformer base pack tiles higher res_121: -4400514666753879705
+      platformer base pack tiles higher res_122: -4731713355067853519
+      platformer base pack tiles higher res_123: -7750225285285748784
+      platformer base pack tiles higher res_124: -8367782829674839572
+      platformer base pack tiles higher res_125: -3360385888673830921
+      platformer base pack tiles higher res_126: -7971775571282308257
+      platformer base pack tiles higher res_127: 4073961776745380437
+      platformer base pack tiles higher res_128: -4804104328933753554
+      platformer base pack tiles higher res_129: -241079096733471401
+      platformer base pack tiles higher res_13: -9045489953294733355
+      platformer base pack tiles higher res_130: -4165970870473480710
+      platformer base pack tiles higher res_131: 5469169077081385523
+      platformer base pack tiles higher res_132: -4242266068493850024
+      platformer base pack tiles higher res_133: -3091743032954504928
+      platformer base pack tiles higher res_134: -7739299679326336700
+      platformer base pack tiles higher res_135: -6396754207756238781
+      platformer base pack tiles higher res_136: 953578391966057058
+      platformer base pack tiles higher res_137: -7665870537859095218
+      platformer base pack tiles higher res_138: -9088077873867385483
+      platformer base pack tiles higher res_139: -8469900306825363673
+      platformer base pack tiles higher res_14: -8531511960531552489
+      platformer base pack tiles higher res_140: 8639293875470357840
+      platformer base pack tiles higher res_141: 6672886660548107234
+      platformer base pack tiles higher res_142: -1672520917950260469
+      platformer base pack tiles higher res_143: 7744340766978975621
+      platformer base pack tiles higher res_144: -4809699936108124645
+      platformer base pack tiles higher res_145: 1615322382700040255
+      platformer base pack tiles higher res_146: 1670776173284125771
+      platformer base pack tiles higher res_147: -4700939601687607078
+      platformer base pack tiles higher res_148: -3186841516328055931
+      platformer base pack tiles higher res_149: 6067343595585172477
+      platformer base pack tiles higher res_15: 7639589128160414953
+      platformer base pack tiles higher res_150: -8769263684429265917
+      platformer base pack tiles higher res_151: 6592421616221560195
+      platformer base pack tiles higher res_152: 6850883121575871663
+      platformer base pack tiles higher res_153: 3548212527905757397
+      platformer base pack tiles higher res_154: -2742889778031648871
+      platformer base pack tiles higher res_155: -5918060085265771395
+      platformer base pack tiles higher res_156: 6594690588599167033
+      platformer base pack tiles higher res_157: 2198761953616559609
+      platformer base pack tiles higher res_158: -6199775281200474537
+      platformer base pack tiles higher res_159: -6087338696047118974
+      platformer base pack tiles higher res_16: 8150793152685846834
+      platformer base pack tiles higher res_160: 8058972456684587858
+      platformer base pack tiles higher res_161: 4957010932411821439
+      platformer base pack tiles higher res_162: -6341072112458982413
+      platformer base pack tiles higher res_163: -3396195703835609417
+      platformer base pack tiles higher res_164: -3348051680458025693
+      platformer base pack tiles higher res_165: 3537250908816818417
+      platformer base pack tiles higher res_166: 8980574969338644076
+      platformer base pack tiles higher res_167: 2869154801520077583
+      platformer base pack tiles higher res_168: 5974828316005184191
+      platformer base pack tiles higher res_169: 4084975361066135016
+      platformer base pack tiles higher res_17: -2234521815824274487
+      platformer base pack tiles higher res_170: 8797237127038370785
+      platformer base pack tiles higher res_171: -1965078798352265544
+      platformer base pack tiles higher res_172: -7521827687246153982
+      platformer base pack tiles higher res_173: -5680410740523401971
+      platformer base pack tiles higher res_174: -2994049948543621518
+      platformer base pack tiles higher res_175: 5849273072261181033
+      platformer base pack tiles higher res_176: 1363012063893419303
+      platformer base pack tiles higher res_177: -1974794599913188276
+      platformer base pack tiles higher res_178: 2330969092809089162
+      platformer base pack tiles higher res_179: 7469307976370643946
+      platformer base pack tiles higher res_18: -9198054657806140439
+      platformer base pack tiles higher res_180: 6934811601344738291
+      platformer base pack tiles higher res_181: 7197502673662866209
+      platformer base pack tiles higher res_182: -1017119602623188728
+      platformer base pack tiles higher res_183: -1164621376526677298
+      platformer base pack tiles higher res_184: 5652275577084198525
+      platformer base pack tiles higher res_185: -4331821616765335864
+      platformer base pack tiles higher res_186: 9168719592518231713
+      platformer base pack tiles higher res_187: -5476283155001950640
+      platformer base pack tiles higher res_188: -8629512956299540537
+      platformer base pack tiles higher res_189: 3769931302008040225
+      platformer base pack tiles higher res_19: 7839437864265220497
+      platformer base pack tiles higher res_190: 6727260723598416268
+      platformer base pack tiles higher res_191: -1527949403393840580
+      platformer base pack tiles higher res_192: 7836845636888704142
+      platformer base pack tiles higher res_193: 928862850864334300
+      platformer base pack tiles higher res_194: 6913828056514628988
+      platformer base pack tiles higher res_195: -4659899942492220993
+      platformer base pack tiles higher res_196: 1468893747504433514
+      platformer base pack tiles higher res_197: -2544327622187151245
+      platformer base pack tiles higher res_198: -4530354009107078783
+      platformer base pack tiles higher res_199: 1280797947052017152
+      platformer base pack tiles higher res_2: 1005080503733930024
+      platformer base pack tiles higher res_20: -143449041843757593
+      platformer base pack tiles higher res_200: -979394393889179789
+      platformer base pack tiles higher res_201: -9016135997326803000
+      platformer base pack tiles higher res_202: -4422566121768491042
+      platformer base pack tiles higher res_203: 2065051148030310203
+      platformer base pack tiles higher res_204: 2613008241768479379
+      platformer base pack tiles higher res_205: -3181815720642749346
+      platformer base pack tiles higher res_206: -2982687409540571647
+      platformer base pack tiles higher res_207: 1067687409881990633
+      platformer base pack tiles higher res_208: 5303029893713523672
+      platformer base pack tiles higher res_209: 1261501991065355151
+      platformer base pack tiles higher res_21: 8821870889621889406
+      platformer base pack tiles higher res_210: 482036565367209321
+      platformer base pack tiles higher res_211: -578296780250576349
+      platformer base pack tiles higher res_212: 6776387703953498669
+      platformer base pack tiles higher res_213: 9058392569336215716
+      platformer base pack tiles higher res_214: 1364267458588791940
+      platformer base pack tiles higher res_215: -7763271163863053228
+      platformer base pack tiles higher res_216: -8924420195636655109
+      platformer base pack tiles higher res_217: 6530121546625942844
+      platformer base pack tiles higher res_218: -1311649114712733712
+      platformer base pack tiles higher res_219: 9127852283811900790
+      platformer base pack tiles higher res_22: 2192178690245839224
+      platformer base pack tiles higher res_220: 7348610589974684350
+      platformer base pack tiles higher res_221: 4816852860171107119
+      platformer base pack tiles higher res_222: 7573371658259428024
+      platformer base pack tiles higher res_223: 589913151510008214
+      platformer base pack tiles higher res_224: -1167617630951891704
+      platformer base pack tiles higher res_225: -4307386910678418655
+      platformer base pack tiles higher res_226: -4893089314102976924
+      platformer base pack tiles higher res_227: -6572553949111502774
+      platformer base pack tiles higher res_228: 1763217397838591554
+      platformer base pack tiles higher res_229: 8519291477139391170
+      platformer base pack tiles higher res_23: -783239362850232314
+      platformer base pack tiles higher res_230: 3329443017682254874
+      platformer base pack tiles higher res_231: -7212444273323826102
+      platformer base pack tiles higher res_232: -1555923342498008334
+      platformer base pack tiles higher res_233: -6476192180899467867
+      platformer base pack tiles higher res_234: -7436173176371496726
+      platformer base pack tiles higher res_235: 4755520471193731862
+      platformer base pack tiles higher res_236: -6004798683312070336
+      platformer base pack tiles higher res_237: -6442632774861749382
+      platformer base pack tiles higher res_238: 8361528733396111488
+      platformer base pack tiles higher res_239: 5289627662921313176
+      platformer base pack tiles higher res_24: 8080071690837229412
+      platformer base pack tiles higher res_240: -6647926337262107981
+      platformer base pack tiles higher res_241: 324593025332874482
+      platformer base pack tiles higher res_242: 1509825297086459630
+      platformer base pack tiles higher res_243: 6784585662231951023
+      platformer base pack tiles higher res_244: -8843601706217123951
+      platformer base pack tiles higher res_245: -1952302602580537642
+      platformer base pack tiles higher res_246: 3386869469131964786
+      platformer base pack tiles higher res_247: -3943670235914406619
+      platformer base pack tiles higher res_248: 818769465781056700
+      platformer base pack tiles higher res_249: -7312517112802210961
+      platformer base pack tiles higher res_25: 3477286076580267079
+      platformer base pack tiles higher res_250: -7848392715543339753
+      platformer base pack tiles higher res_251: -5650338794053946833
+      platformer base pack tiles higher res_252: -8800449256987383219
+      platformer base pack tiles higher res_253: 1518658244585174867
+      platformer base pack tiles higher res_26: 7942101528765647520
+      platformer base pack tiles higher res_27: 9155756704238990405
+      platformer base pack tiles higher res_28: 7958520583911747944
+      platformer base pack tiles higher res_29: 2502359246949184299
+      platformer base pack tiles higher res_3: 6623536666982159145
+      platformer base pack tiles higher res_30: -7950663816148257352
+      platformer base pack tiles higher res_31: 3509526712068596890
+      platformer base pack tiles higher res_32: -7163627257494386165
+      platformer base pack tiles higher res_33: -8562303602306256253
+      platformer base pack tiles higher res_34: -8237029243687103477
+      platformer base pack tiles higher res_35: -7718317193416282937
+      platformer base pack tiles higher res_36: -1220285235235009935
+      platformer base pack tiles higher res_37: -5529528939617794921
+      platformer base pack tiles higher res_38: 7464756228692909823
+      platformer base pack tiles higher res_39: 3845217974444722623
+      platformer base pack tiles higher res_4: 7873663306619610950
+      platformer base pack tiles higher res_40: -9052530260922553426
+      platformer base pack tiles higher res_41: 5507884495865131085
+      platformer base pack tiles higher res_42: -6104420017104886580
+      platformer base pack tiles higher res_43: 2797339448507983508
+      platformer base pack tiles higher res_44: -3467642403732191451
+      platformer base pack tiles higher res_45: 3007900856176330238
+      platformer base pack tiles higher res_46: 2184444359727261376
+      platformer base pack tiles higher res_47: -8910719750789344079
+      platformer base pack tiles higher res_48: 8737750728087115566
+      platformer base pack tiles higher res_49: -7450812491493645746
+      platformer base pack tiles higher res_5: 2119843336724996407
+      platformer base pack tiles higher res_50: 413134032294444007
+      platformer base pack tiles higher res_51: 6845143024478581132
+      platformer base pack tiles higher res_52: -2145208817495036371
+      platformer base pack tiles higher res_53: 607756408970178232
+      platformer base pack tiles higher res_54: 2345067224100801187
+      platformer base pack tiles higher res_55: -4124207298658616421
+      platformer base pack tiles higher res_56: 195672874035313876
+      platformer base pack tiles higher res_57: 8824778860575106648
+      platformer base pack tiles higher res_58: -467728777607991591
+      platformer base pack tiles higher res_59: 3439548131691154711
+      platformer base pack tiles higher res_6: 7698931342840945602
+      platformer base pack tiles higher res_60: -936302565013556826
+      platformer base pack tiles higher res_61: -2726988983623737514
+      platformer base pack tiles higher res_62: 3414019919116536258
+      platformer base pack tiles higher res_63: 2443562723389118375
+      platformer base pack tiles higher res_64: 7603899220669435862
+      platformer base pack tiles higher res_65: 5643138046984320638
+      platformer base pack tiles higher res_66: 2016729347831947987
+      platformer base pack tiles higher res_67: -783635695608665818
+      platformer base pack tiles higher res_68: 1443087562733735619
+      platformer base pack tiles higher res_69: -5599019577577105007
+      platformer base pack tiles higher res_7: 695071638926806322
+      platformer base pack tiles higher res_70: -7507766986391598050
+      platformer base pack tiles higher res_71: -2122909393705526990
+      platformer base pack tiles higher res_72: -6312860604852265637
+      platformer base pack tiles higher res_73: 6705564359009018852
+      platformer base pack tiles higher res_74: 4451422500137242027
+      platformer base pack tiles higher res_75: -280542870987082974
+      platformer base pack tiles higher res_76: -3684604388411435092
+      platformer base pack tiles higher res_77: 7103607122287615688
+      platformer base pack tiles higher res_78: 8895059027087955957
+      platformer base pack tiles higher res_79: 5160105648274474190
+      platformer base pack tiles higher res_8: 5041673901415767728
+      platformer base pack tiles higher res_80: 6430293767748869781
+      platformer base pack tiles higher res_81: -5475755654910587378
+      platformer base pack tiles higher res_82: -2229197676863737475
+      platformer base pack tiles higher res_83: -1564554207688399733
+      platformer base pack tiles higher res_84: -3986006066447001273
+      platformer base pack tiles higher res_85: 1680458645958776999
+      platformer base pack tiles higher res_86: -6403595671999845594
+      platformer base pack tiles higher res_87: -5239748529635208845
+      platformer base pack tiles higher res_88: -9106614602458108332
+      platformer base pack tiles higher res_89: 5982040378414705997
+      platformer base pack tiles higher res_9: -1673395729031615928
+      platformer base pack tiles higher res_90: -3060873921294931529
+      platformer base pack tiles higher res_91: -1957513913336345564
+      platformer base pack tiles higher res_92: 359368480404801349
+      platformer base pack tiles higher res_93: -3745480216029881815
+      platformer base pack tiles higher res_94: 4144821724413102729
+      platformer base pack tiles higher res_95: -6560458769415350211
+      platformer base pack tiles higher res_96: 6038617149024015000
+      platformer base pack tiles higher res_97: -7420354470929690919
+      platformer base pack tiles higher res_98: 8722446072266687313
+      platformer base pack tiles higher res_99: 2700022901647713157
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

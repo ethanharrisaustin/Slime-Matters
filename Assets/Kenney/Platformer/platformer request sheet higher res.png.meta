@@ -1,0 +1,794 @@
+fileFormatVersion: 2
+guid: 2fe9741565aba4293b00f5649f17bb3e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4005774070522246909
+    second: platformer request sheet higher res_0
+  - first:
+      213: -8722978195293175361
+    second: platformer request sheet higher res_1
+  - first:
+      213: -7871824444971139304
+    second: platformer request sheet higher res_2
+  - first:
+      213: 6256767349738123377
+    second: platformer request sheet higher res_3
+  - first:
+      213: -8673004759996644925
+    second: platformer request sheet higher res_4
+  - first:
+      213: 8201519408009515557
+    second: platformer request sheet higher res_5
+  - first:
+      213: 201784829452461564
+    second: platformer request sheet higher res_6
+  - first:
+      213: 7045869017353014846
+    second: platformer request sheet higher res_7
+  - first:
+      213: 1964001801244480576
+    second: platformer request sheet higher res_8
+  - first:
+      213: 5358321765971141348
+    second: platformer request sheet higher res_9
+  - first:
+      213: -6679469056875102127
+    second: platformer request sheet higher res_10
+  - first:
+      213: 3162018033628959247
+    second: platformer request sheet higher res_11
+  - first:
+      213: 8693129037276480994
+    second: platformer request sheet higher res_12
+  - first:
+      213: -5037165588991232359
+    second: platformer request sheet higher res_13
+  - first:
+      213: -8921546119106114359
+    second: platformer request sheet higher res_14
+  - first:
+      213: 7913692327628636918
+    second: platformer request sheet higher res_15
+  - first:
+      213: 8326565331138783580
+    second: platformer request sheet higher res_16
+  - first:
+      213: -3738135421756679203
+    second: platformer request sheet higher res_17
+  - first:
+      213: 3594464485617757848
+    second: platformer request sheet higher res_18
+  - first:
+      213: -2296130424491946870
+    second: platformer request sheet higher res_19
+  - first:
+      213: 6166639506366119404
+    second: platformer request sheet higher res_20
+  - first:
+      213: -656399882871922114
+    second: platformer request sheet higher res_21
+  - first:
+      213: -979510917631131875
+    second: platformer request sheet higher res_22
+  - first:
+      213: -2227725857309499844
+    second: platformer request sheet higher res_23
+  - first:
+      213: -5605638893334875201
+    second: platformer request sheet higher res_24
+  - first:
+      213: -1197068279797363994
+    second: platformer request sheet higher res_25
+  - first:
+      213: -6919068069705253085
+    second: platformer request sheet higher res_26
+  - first:
+      213: 9121939852019053162
+    second: platformer request sheet higher res_27
+  - first:
+      213: 2491103395081378654
+    second: platformer request sheet higher res_28
+  - first:
+      213: 4964291507943171109
+    second: platformer request sheet higher res_29
+  - first:
+      213: 3690560294215762233
+    second: platformer request sheet higher res_30
+  - first:
+      213: -3207665852419941386
+    second: platformer request sheet higher res_31
+  - first:
+      213: 1268452343785570406
+    second: platformer request sheet higher res_32
+  - first:
+      213: 3998648188924080588
+    second: platformer request sheet higher res_33
+  - first:
+      213: 4190497027802483333
+    second: platformer request sheet higher res_34
+  - first:
+      213: -6356219843866584692
+    second: platformer request sheet higher res_35
+  - first:
+      213: 1420686184627447572
+    second: platformer request sheet higher res_36
+  - first:
+      213: -4288825275294613991
+    second: platformer request sheet higher res_37
+  - first:
+      213: 3170547755498123755
+    second: platformer request sheet higher res_38
+  - first:
+      213: 227684340096937600
+    second: platformer request sheet higher res_39
+  - first:
+      213: -7751166314415994322
+    second: platformer request sheet higher res_40
+  - first:
+      213: -1138817847735931430
+    second: platformer request sheet higher res_41
+  - first:
+      213: -6253239301708333719
+    second: platformer request sheet higher res_42
+  - first:
+      213: -5754165838409190897
+    second: platformer request sheet higher res_43
+  - first:
+      213: 5809348964844279332
+    second: platformer request sheet higher res_44
+  - first:
+      213: -2917452297119694758
+    second: platformer request sheet higher res_45
+  - first:
+      213: 1016412415296857780
+    second: platformer request sheet higher res_46
+  - first:
+      213: 7335909980430291091
+    second: platformer request sheet higher res_47
+  - first:
+      213: -2797954606085839974
+    second: platformer request sheet higher res_48
+  - first:
+      213: 6113436904270997399
+    second: platformer request sheet higher res_49
+  - first:
+      213: -8635544387907938591
+    second: platformer request sheet higher res_50
+  - first:
+      213: -8534487668480618193
+    second: platformer request sheet higher res_51
+  - first:
+      213: -7660906943883623459
+    second: platformer request sheet higher res_52
+  - first:
+      213: -2129697643242098819
+    second: platformer request sheet higher res_53
+  - first:
+      213: -6271105365910886448
+    second: platformer request sheet higher res_54
+  - first:
+      213: 8901322618505554836
+    second: platformer request sheet higher res_55
+  - first:
+      213: -1392330872314404202
+    second: platformer request sheet higher res_56
+  - first:
+      213: -8255926319814851845
+    second: platformer request sheet higher res_57
+  - first:
+      213: -3119605321099082241
+    second: platformer request sheet higher res_58
+  - first:
+      213: 4808969308723195950
+    second: platformer request sheet higher res_59
+  - first:
+      213: -6208607621627283907
+    second: platformer request sheet higher res_60
+  - first:
+      213: -4940707220111164753
+    second: platformer request sheet higher res_61
+  - first:
+      213: 5936940636722311192
+    second: platformer request sheet higher res_62
+  - first:
+      213: 3932294778869954607
+    second: platformer request sheet higher res_63
+  - first:
+      213: -4655379085925995289
+    second: platformer request sheet higher res_64
+  - first:
+      213: 5033763016958403416
+    second: platformer request sheet higher res_65
+  - first:
+      213: 8134896048915400258
+    second: platformer request sheet higher res_66
+  - first:
+      213: 303762247661177652
+    second: platformer request sheet higher res_67
+  - first:
+      213: 6204021080984353716
+    second: platformer request sheet higher res_68
+  - first:
+      213: 8915483094711204618
+    second: platformer request sheet higher res_69
+  - first:
+      213: -6128214309170350919
+    second: platformer request sheet higher res_70
+  - first:
+      213: 4297722241097163640
+    second: platformer request sheet higher res_71
+  - first:
+      213: 5457526279713248988
+    second: platformer request sheet higher res_72
+  - first:
+      213: 8552484599222862455
+    second: platformer request sheet higher res_73
+  - first:
+      213: 4000779174773178931
+    second: platformer request sheet higher res_74
+  - first:
+      213: -2687987558432700791
+    second: platformer request sheet higher res_75
+  - first:
+      213: 4075817002776305165
+    second: platformer request sheet higher res_76
+  - first:
+      213: 2507267771678180217
+    second: platformer request sheet higher res_77
+  - first:
+      213: -5290175586542718202
+    second: platformer request sheet higher res_78
+  - first:
+      213: 7491256429879481988
+    second: platformer request sheet higher res_79
+  - first:
+      213: 4930320850726055706
+    second: platformer request sheet higher res_80
+  - first:
+      213: 5805338310231863811
+    second: platformer request sheet higher res_81
+  - first:
+      213: -8188599479273596172
+    second: platformer request sheet higher res_82
+  - first:
+      213: 3092659519655825900
+    second: platformer request sheet higher res_83
+  - first:
+      213: -1099877608799231864
+    second: platformer request sheet higher res_84
+  - first:
+      213: 7350875745988563566
+    second: platformer request sheet higher res_85
+  - first:
+      213: -1803931165988525271
+    second: platformer request sheet higher res_86
+  - first:
+      213: 5113819108486800779
+    second: platformer request sheet higher res_87
+  - first:
+      213: 7708471310540064004
+    second: platformer request sheet higher res_88
+  - first:
+      213: -369718854173176454
+    second: platformer request sheet higher res_89
+  - first:
+      213: -2358833668684422006
+    second: platformer request sheet higher res_90
+  - first:
+      213: -8054819142327178077
+    second: platformer request sheet higher res_91
+  - first:
+      213: -6983649037573065551
+    second: platformer request sheet higher res_92
+  - first:
+      213: -1232922259841275863
+    second: platformer request sheet higher res_93
+  - first:
+      213: -7451658298478864351
+    second: platformer request sheet higher res_94
+  - first:
+      213: 1883606509391734023
+    second: platformer request sheet higher res_95
+  - first:
+      213: 4893360132244509015
+    second: platformer request sheet higher res_96
+  - first:
+      213: -8176468256056464523
+    second: platformer request sheet higher res_97
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: platformer request sheet higher res_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 574
+        width: 508
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6f2fb2b4e579730800000000000000
+      internalID: 4005774070522246909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer request sheet higher res_1
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 574
+        width: 368
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb182163c81c1f680800000000000000
+      internalID: -8722978195293175361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer request sheet higher res_2
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 574
+        width: 475
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f324fbf59a1c290800000000000000
+      internalID: -7871824444971139304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer request sheet higher res_3
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 610
+        width: 368
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170376b31c084d650800000000000000
+      internalID: 6256767349738123377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer request sheet higher res_4
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 574
+        width: 137
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1c0215f1c43a780800000000000000
+      internalID: -8673004759996644925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer request sheet higher res_5
+      rect:
+        serializedVersion: 2
+        x: 3067
+        y: 574
+        width: 137
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52211e4b276a1d170800000000000000
+      internalID: 8201519408009515557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer request sheet higher res_6
+      rect:
+        serializedVersion: 2
+        x: 3643
+        y: 574
+        width: 137
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5a398bb32ecc200800000000000000
+      internalID: 201784829452461564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer request sheet higher res_7
+      rect:
+        serializedVersion: 2
+        x: 4220
+        y: 574
+        width: 142
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ec1496a84f7c160800000000000000
+      internalID: 7045869017353014846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer request sheet higher res_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 508
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04497658b39814b10800000000000000
+      internalID: 1964001801244480576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer request sheet higher res_9
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 0
+        width: 368
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e224fca1459c5a40800000000000000
+      internalID: 5358321765971141348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer request sheet higher res_10
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 0
+        width: 474
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1500fb83842cd43a0800000000000000
+      internalID: -6679469056875102127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer request sheet higher res_11
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 0
+        width: 368
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0255d306aeb1eb20800000000000000
+      internalID: 3162018033628959247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer request sheet higher res_12
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 182
+        width: 510
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e58f7d1dc234a870800000000000000
+      internalID: 8693129037276480994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer request sheet higher res_13
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 179
+        width: 510
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9963b59b594681ab0800000000000000
+      internalID: -5037165588991232359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer request sheet higher res_14
+      rect:
+        serializedVersion: 2
+        x: 3457
+        y: 183
+        width: 510
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc4a63b21d403480800000000000000
+      internalID: -8921546119106114359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformer request sheet higher res_15
+      rect:
+        serializedVersion: 2
+        x: 4033
+        y: 181
+        width: 508
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f20a025e3513dd60800000000000000
+      internalID: 7913692327628636918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 959fd248b80274a6cb32dcedcba1a879
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":500.0,"y":500.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      platformer request sheet higher res_0: 4005774070522246909
+      platformer request sheet higher res_1: -8722978195293175361
+      platformer request sheet higher res_10: -6679469056875102127
+      platformer request sheet higher res_11: 3162018033628959247
+      platformer request sheet higher res_12: 8693129037276480994
+      platformer request sheet higher res_13: -5037165588991232359
+      platformer request sheet higher res_14: -8921546119106114359
+      platformer request sheet higher res_15: 7913692327628636918
+      platformer request sheet higher res_2: -7871824444971139304
+      platformer request sheet higher res_3: 6256767349738123377
+      platformer request sheet higher res_4: -8673004759996644925
+      platformer request sheet higher res_5: 8201519408009515557
+      platformer request sheet higher res_6: 201784829452461564
+      platformer request sheet higher res_7: 7045869017353014846
+      platformer request sheet higher res_8: 1964001801244480576
+      platformer request sheet higher res_9: 5358321765971141348
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

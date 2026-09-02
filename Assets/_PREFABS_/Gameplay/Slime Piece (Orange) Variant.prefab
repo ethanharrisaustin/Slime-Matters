@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6437162225597159842
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5458645871575293388, guid: ac312f85e697149ce82bb7b7e20cd860, type: 3}
+      propertyPath: m_Name
+      value: Slime Piece (Orange) Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 5458645871575293388, guid: ac312f85e697149ce82bb7b7e20cd860, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6329566527480114035, guid: ac312f85e697149ce82bb7b7e20cd860, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 6.14
+      objectReference: {fileID: 0}
+    - target: {fileID: 6329566527480114035, guid: ac312f85e697149ce82bb7b7e20cd860, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.06
+      objectReference: {fileID: 0}
+    - target: {fileID: 6329566527480114035, guid: ac312f85e697149ce82bb7b7e20cd860, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6329566527480114035, guid: ac312f85e697149ce82bb7b7e20cd860, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6329566527480114035, guid: ac312f85e697149ce82bb7b7e20cd860, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6329566527480114035, guid: ac312f85e697149ce82bb7b7e20cd860, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6329566527480114035, guid: ac312f85e697149ce82bb7b7e20cd860, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6329566527480114035, guid: ac312f85e697149ce82bb7b7e20cd860, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6329566527480114035, guid: ac312f85e697149ce82bb7b7e20cd860, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6329566527480114035, guid: ac312f85e697149ce82bb7b7e20cd860, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7435034383222449909, guid: ac312f85e697149ce82bb7b7e20cd860, type: 3}
+      propertyPath: m_Size.x
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7435034383222449909, guid: ac312f85e697149ce82bb7b7e20cd860, type: 3}
+      propertyPath: m_Size.y
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7435034383222449909, guid: ac312f85e697149ce82bb7b7e20cd860, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 969c2accb24cd47e4aeeb583966c8749, type: 3}
+    - target: {fileID: 7435034383222449909, guid: ac312f85e697149ce82bb7b7e20cd860, type: 3}
+      propertyPath: m_Color.b
+      value: 0.007843138
+      objectReference: {fileID: 0}
+    - target: {fileID: 7435034383222449909, guid: ac312f85e697149ce82bb7b7e20cd860, type: 3}
+      propertyPath: m_Color.g
+      value: 0.47058824
+      objectReference: {fileID: 0}
+    - target: {fileID: 7435034383222449909, guid: ac312f85e697149ce82bb7b7e20cd860, type: 3}
+      propertyPath: m_Color.r
+      value: 0.9254902
+      objectReference: {fileID: 0}
+    - target: {fileID: 7435034383222449909, guid: ac312f85e697149ce82bb7b7e20cd860, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7435034383222449909, guid: ac312f85e697149ce82bb7b7e20cd860, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 71942363c5608a64bb62421349d39c9c, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ac312f85e697149ce82bb7b7e20cd860, type: 3}

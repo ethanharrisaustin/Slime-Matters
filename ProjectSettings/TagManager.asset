@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Lower Player
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player Collisions
+  - Player Triggers
+  - Player 1
+  - Player 2
+  - Button Trigger
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2042889809
+    locked: 0
+  - name: Grounds
+    uniqueID: 2355398823
+    locked: 0
+  - name: Main
+    uniqueID: 1804422585
+    locked: 0
+  - name: Player
+    uniqueID: 3859718937
+    locked: 0
+  - name: Slime Pieces
+    uniqueID: 2598604321
+    locked: 0
+  - name: Above Player
+    uniqueID: 469649815
+    locked: 0
+  m_RenderingLayers:
+  - Default

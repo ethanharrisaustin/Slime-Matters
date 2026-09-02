@@ -1,0 +1,410 @@
+fileFormatVersion: 2
+guid: 431da2cd86e234e5593bc685b962d510
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1568554954825267102
+    second: spinning cogs sheet_0
+  - first:
+      213: 6829106495936103557
+    second: spinning cogs sheet_1
+  - first:
+      213: 498998513050776605
+    second: spinning cogs sheet_2
+  - first:
+      213: -2624835879513925367
+    second: spinning cogs sheet_3
+  - first:
+      213: 3009261364895479981
+    second: spinning cogs sheet_4
+  - first:
+      213: 9188893806350785146
+    second: spinning cogs sheet_5
+  - first:
+      213: -837933918246647733
+    second: spinning cogs sheet_6
+  - first:
+      213: 6050686923005250626
+    second: spinning cogs sheet_7
+  - first:
+      213: 5483345899936016375
+    second: spinning cogs sheet_8
+  - first:
+      213: -6477822492529035833
+    second: spinning cogs sheet_9
+  - first:
+      213: -4339140546536687951
+    second: spinning cogs sheet_10
+  - first:
+      213: -5250988745389555292
+    second: spinning cogs sheet_11
+  - first:
+      213: 5989973214851350215
+    second: spinning cogs sheet_12
+  - first:
+      213: 8141679136396705141
+    second: spinning cogs sheet_13
+  - first:
+      213: -3290364140984682714
+    second: spinning cogs sheet_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spinning cogs sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1291
+        width: 309
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97f90dbb60a4c510800000000000000
+      internalID: 1568554954825267102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinning cogs sheet_1
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1512
+        width: 99
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58485970d2cd5ce50800000000000000
+      internalID: 6829106495936103557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinning cogs sheet_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 969
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9095fdfaca5b29bd0800000000000000
+      internalID: -2624835879513925367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinning cogs sheet_4
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1190
+        width: 101
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8f6e2844b03c920800000000000000
+      internalID: 3009261364895479981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinning cogs sheet_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 651
+        width: 310
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4848a97a8f0f54f0800000000000000
+      internalID: -837933918246647733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinning cogs sheet_7
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 872
+        width: 99
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c44d4d2bb58f350800000000000000
+      internalID: 6050686923005250626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinning cogs sheet_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 324
+        width: 310
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c575c693c62a16a0800000000000000
+      internalID: -6477822492529035833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinning cogs sheet_10
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 545
+        width: 99
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6bf25a9a648c3c0800000000000000
+      internalID: -4339140546536687951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinning cogs sheet_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 310
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ceb15517e8a02350800000000000000
+      internalID: 5989973214851350215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinning cogs sheet_13
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 220
+        width: 98
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d7220c90e0df070800000000000000
+      internalID: 8141679136396705141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4a4718197222c48fd8e5d4cb31b043a2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spinning cogs sheet_0: 1568554954825267102
+      spinning cogs sheet_1: 6829106495936103557
+      spinning cogs sheet_10: -4339140546536687951
+      spinning cogs sheet_11: -5250988745389555292
+      spinning cogs sheet_12: 5989973214851350215
+      spinning cogs sheet_13: 8141679136396705141
+      spinning cogs sheet_14: -3290364140984682714
+      spinning cogs sheet_2: 498998513050776605
+      spinning cogs sheet_3: -2624835879513925367
+      spinning cogs sheet_4: 3009261364895479981
+      spinning cogs sheet_5: 9188893806350785146
+      spinning cogs sheet_6: -837933918246647733
+      spinning cogs sheet_7: 6050686923005250626
+      spinning cogs sheet_8: 5483345899936016375
+      spinning cogs sheet_9: -6477822492529035833
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
