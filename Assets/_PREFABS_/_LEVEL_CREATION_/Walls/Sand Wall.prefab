@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5889436386286273675
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3506081181640796669, guid: df50c115b9a5e45a283af910c87b2c80, type: 3}
+      propertyPath: size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3506081181640796669, guid: df50c115b9a5e45a283af910c87b2c80, type: 3}
+      propertyPath: size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3506081181640796669, guid: df50c115b9a5e45a283af910c87b2c80, type: 3}
+      propertyPath: topWallPiece
+      value: 
+      objectReference: {fileID: 1175201534025992191, guid: 9be2d1f26c94249cd8bccbd3ac7ae055, type: 3}
+    - target: {fileID: 3506081181640796669, guid: df50c115b9a5e45a283af910c87b2c80, type: 3}
+      propertyPath: middleWallPiece
+      value: 
+      objectReference: {fileID: 4031996907679129299, guid: d3411818088354a7890c07f3bac2d201, type: 3}
+    - target: {fileID: 3733229489147780431, guid: df50c115b9a5e45a283af910c87b2c80, type: 3}
+      propertyPath: m_Name
+      value: Sand Wall
+      objectReference: {fileID: 0}
+    - target: {fileID: 5833083238759157038, guid: df50c115b9a5e45a283af910c87b2c80, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5833083238759157038, guid: df50c115b9a5e45a283af910c87b2c80, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5833083238759157038, guid: df50c115b9a5e45a283af910c87b2c80, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5985874643099029975, guid: df50c115b9a5e45a283af910c87b2c80, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.69247
+      objectReference: {fileID: 0}
+    - target: {fileID: 5985874643099029975, guid: df50c115b9a5e45a283af910c87b2c80, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.09488
+      objectReference: {fileID: 0}
+    - target: {fileID: 5985874643099029975, guid: df50c115b9a5e45a283af910c87b2c80, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5985874643099029975, guid: df50c115b9a5e45a283af910c87b2c80, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5985874643099029975, guid: df50c115b9a5e45a283af910c87b2c80, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5985874643099029975, guid: df50c115b9a5e45a283af910c87b2c80, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5985874643099029975, guid: df50c115b9a5e45a283af910c87b2c80, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5985874643099029975, guid: df50c115b9a5e45a283af910c87b2c80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5985874643099029975, guid: df50c115b9a5e45a283af910c87b2c80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5985874643099029975, guid: df50c115b9a5e45a283af910c87b2c80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: df50c115b9a5e45a283af910c87b2c80, type: 3}

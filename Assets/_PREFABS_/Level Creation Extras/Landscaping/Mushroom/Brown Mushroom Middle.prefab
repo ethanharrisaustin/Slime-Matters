@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8067748426478868055
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1531445997825063392, guid: e369f2cc6011e455c8a72141611c9c49, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 2237774359512718765, guid: 0c6e8b70c0d79453fbd301266db1aec5, type: 3}
+    - target: {fileID: 3569637706567028562, guid: e369f2cc6011e455c8a72141611c9c49, type: 3}
+      propertyPath: m_Name
+      value: Brown Mushroom Middle Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 7615297613298085031, guid: e369f2cc6011e455c8a72141611c9c49, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.69247
+      objectReference: {fileID: 0}
+    - target: {fileID: 7615297613298085031, guid: e369f2cc6011e455c8a72141611c9c49, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.09488
+      objectReference: {fileID: 0}
+    - target: {fileID: 7615297613298085031, guid: e369f2cc6011e455c8a72141611c9c49, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7615297613298085031, guid: e369f2cc6011e455c8a72141611c9c49, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7615297613298085031, guid: e369f2cc6011e455c8a72141611c9c49, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7615297613298085031, guid: e369f2cc6011e455c8a72141611c9c49, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7615297613298085031, guid: e369f2cc6011e455c8a72141611c9c49, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7615297613298085031, guid: e369f2cc6011e455c8a72141611c9c49, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7615297613298085031, guid: e369f2cc6011e455c8a72141611c9c49, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7615297613298085031, guid: e369f2cc6011e455c8a72141611c9c49, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e369f2cc6011e455c8a72141611c9c49, type: 3}

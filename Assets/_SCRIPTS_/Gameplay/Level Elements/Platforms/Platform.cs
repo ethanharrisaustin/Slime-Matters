@@ -12,9 +12,9 @@ public class Platform : MonoBehaviour
         ShowPlatform();
     }
 
-    #if UNITY_EDITOR
-
     int previousLength = -1;
+
+    #if UNITY_EDITOR
 
     // Update is called once per frame
     void Update()
@@ -103,5 +103,7 @@ public class Platform : MonoBehaviour
             Destroy(pieces[i].gameObject);
             #endif
         }
+
+        previousLength = -1;
     }
 }
