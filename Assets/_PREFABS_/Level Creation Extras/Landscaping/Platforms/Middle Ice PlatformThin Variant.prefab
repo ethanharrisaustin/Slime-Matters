@@ -54,7 +54,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5167783016969518126, guid: 0b4868e130bbf4666bab21d7e1dd55e2, type: 3}
       propertyPath: m_Name
-      value: Middle Ice Platform Thin Variant
+      value: Middle Ice PlatformThin Variant
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

@@ -96,6 +96,8 @@ public class PlayerChangingSize : MonoBehaviour
     float prevXPos = 0f;
     void DropSlimePiece()
     {
+        if (playerController.collision.IsInIgnoreCollision()) return;
+        
         float currentXPos = playerController.transform.position.x;
 
         if (Mathf.Abs(prevXPos - currentXPos) <= c_spaceBetweenSlime) return;

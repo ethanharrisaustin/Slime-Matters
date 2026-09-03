@@ -14,33 +14,35 @@ public class MushroomPlatform : MonoBehaviour
 
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Awake()
+    void Start()
     {
         ShowPlatform();
     }
 
-    int previousLength = -1;
-    int previousHeight =-1;
+    
 
     #if UNITY_EDITOR
 
-    
+    int previousLength = -1;
+    int previousHeight =-1;
+    int previousStalkOffset = -1;
 
     // Update is called once per frame
     void Update()
     {
         if (Application.isPlaying) return;
-        
+
         if (!LevelPreview.Showing()) 
         {
             RemoveCurrentMiddlePieces();
             return;
         }
         
-        if (previousLength == length && height == previousHeight) return;
+        if (previousLength == length && height == previousHeight && previousStalkOffset == stalkOffset) return;
         
         previousLength = length;
         previousHeight = height;
+        previousStalkOffset = stalkOffset;
 
         ShowPlatform();
     }

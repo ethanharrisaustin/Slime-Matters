@@ -10,6 +10,8 @@ public class PlayerControllerCollision : MonoBehaviour
     public Transform left, leftLower, leftUpper;
     public Transform right, rightLower, rightUpper;
     public LayerMask collideMask;
+    public LayerMask detectIgnoreCollisionMask;
+    public LayerMask pondCollision;
     public float allowence = 0.1f;
     public float snapToGroundAllowence = 0.3f;
     public float slideOffEdgeAllowence = 0.2f;
@@ -66,6 +68,8 @@ public class PlayerControllerCollision : MonoBehaviour
     public void CollideX()
     {
         CollideXMiddle();
+
+        if (HittingIgnoreCollision(lower, allowence)) return;
 
         if (!Hitting(lower)) CollideXLower();
 
@@ -238,9 +242,15 @@ public class PlayerControllerCollision : MonoBehaviour
 
     public bool RightHitting()
     {
+        // When in pond, only stop if right upper 
+        if (HittingIgnoreCollision(lower, allowence))
+        {
+            return Hitting(rightUpper);
+        }
+
         // When on player head, we are snapped on, allow movement
         // even when rightLower is hitting
-        if (onPlayerHead.IsOnPlayersHead())
+        if (onPlayerHead.IsOnPlayersHead() || HittingIgnoreCollision(lower, allowence))
         {
             return Hitting(right) || Hitting(rightUpper);
         }
@@ -259,6 +269,12 @@ public class PlayerControllerCollision : MonoBehaviour
 
     public bool LeftHitting()
     {
+        // When in pond, only stop if right upper 
+        if (HittingIgnoreCollision(lower, allowence))
+        {
+            return Hitting(leftUpper);
+        }
+
         // When on player head, we are snapped on, allow movement
         // even when leftLower is hitting
         if (onPlayerHead.IsOnPlayersHead())
@@ -324,14 +340,18 @@ public class PlayerControllerCollision : MonoBehaviour
 
         if (allowence == 0) allowence = this.allowence;
 
-        Collider2D collider2D = Physics2D.OverlapCircle(transform.position, allowence, collideMask);
+        LayerMask mask = collideMask;
+
+        if (HittingIgnoreCollision(transform, allowence)) mask = pondCollision;
+
+        Collider2D collider2D = Physics2D.OverlapCircle(transform.position, allowence, mask);
 
         if (HangingPlatform.DoNotCollideWithSwing(collider2D, controller)) return false;
 
         return collider2D != null;
     }
 
-    public bool Hitting(Transform transform,  out Collider2D collider2D, float allowence = 0)
+    public bool Hitting(Transform transform, out Collider2D collider2D, float allowence = 0)
     {
         if (!transform.gameObject.activeInHierarchy) 
         {
@@ -341,11 +361,20 @@ public class PlayerControllerCollision : MonoBehaviour
 
         if (allowence == 0) allowence = this.allowence;
 
-        collider2D = Physics2D.OverlapCircle(transform.position, allowence, collideMask);
+        LayerMask mask = collideMask;
+
+        if (HittingIgnoreCollision(transform, allowence)) mask = pondCollision;
+
+        collider2D = Physics2D.OverlapCircle(transform.position, allowence, mask);
         
         if (HangingPlatform.DoNotCollideWithSwing(collider2D, controller)) return false;
         
         return collider2D != null;
+    }
+
+    public bool HittingIgnoreCollision(Transform transform, float allowence)
+    {
+        return Physics2D.OverlapCircle(transform.position, allowence, detectIgnoreCollisionMask) != null;
     }
 
     public bool HittingBox(Transform transform, float width, float height)
@@ -378,10 +407,14 @@ public class PlayerControllerCollision : MonoBehaviour
     {
         const int playerCollisionLayer = 6;
 
+        LayerMask mask = collideMask;
+
+        if (HittingIgnoreCollision(hitTestPoint, allowence)) mask = pondCollision;
+
         var radius = allowence;
         var distance = 10f;
 
-        RaycastHit2D hit = Physics2D.CircleCast(origin, radius, direction, distance, collideMask);
+        RaycastHit2D hit = Physics2D.CircleCast(origin, radius, direction, distance, mask);
 
         position = hit.point;
 
@@ -409,5 +442,10 @@ public class PlayerControllerCollision : MonoBehaviour
     public bool IsGrounded()
     {
         return movement.timeOnGround > 2;
+    }
+
+    public bool IsInIgnoreCollision()
+    {
+        return HittingIgnoreCollision(lower, allowence);
     }
 }

@@ -468,6 +468,12 @@ MonoBehaviour:
   collideMask:
     serializedVersion: 2
     m_Bits: 576
+  detectIgnoreCollisionMask:
+    serializedVersion: 2
+    m_Bits: 2048
+  pondCollision:
+    serializedVersion: 2
+    m_Bits: 4096
   allowence: 0.15
   snapToGroundAllowence: 1
   slideOffEdgeAllowence: 0.45

@@ -50,7 +50,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2864522488084894001, guid: c1947d662b46340d1a86c98253700af7, type: 3}
       propertyPath: m_Name
-      value: Sandy Wall Piece Variant
+      value: Sandy Wall Piece
       objectReference: {fileID: 0}
     - target: {fileID: 4729722887453293172, guid: c1947d662b46340d1a86c98253700af7, type: 3}
       propertyPath: m_Sprite
