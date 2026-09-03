@@ -10,6 +10,7 @@ public class SlimePond : MonoBehaviour
     [SerializeField] SpriteRenderer mask;
 
     [SerializeField] Transform[] waveTransforms;
+    [SerializeField] BoxCollider2D[] collidersToGrow;
     [SerializeField] float[] waveMoveSpeed;
 
 
@@ -64,6 +65,11 @@ public class SlimePond : MonoBehaviour
             SpriteRenderer wave = waveTransforms[i].GetComponent<SpriteRenderer>();
 
             wave.size = new (pondWidth + waveWidth * 1.1f, wave.size.y);
+        }
+
+        for (int i = 0; i < collidersToGrow.Length; ++i)
+        {
+            collidersToGrow[i].size = new Vector2(pondWidth, collidersToGrow[i].size.y);
         }
     }
 }
