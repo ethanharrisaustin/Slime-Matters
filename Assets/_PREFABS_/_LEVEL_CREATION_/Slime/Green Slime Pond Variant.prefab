@@ -76,6 +76,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6895533225135503919, guid: d73b60441aeb24c878131118cfbb630d, type: 3}
+      propertyPath: slimeColour
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7432125155321029531, guid: d73b60441aeb24c878131118cfbb630d, type: 3}
       propertyPath: m_Color.b
       value: 0.020439148

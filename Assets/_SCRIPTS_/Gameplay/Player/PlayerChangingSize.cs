@@ -20,6 +20,10 @@ public class PlayerChangingSize : MonoBehaviour
 
     [SerializeField] float spaceBetweenSlimes = 0.5f;
 
+    [Space]
+
+    [SerializeField] LayerMask inSlimePondMask;
+
     float c_spaceBetweenSlime = 0f;
 
     float currentScale;
@@ -45,14 +49,23 @@ public class PlayerChangingSize : MonoBehaviour
 
         if (buffer < 3) return;
 
-        if (playerController.movement.NeedsToShrink()) 
+        float scaleChanging = 0f;
+
+        bool inSlimePond = InSlimePond(ref scaleChanging);
+
+        if (playerController.movement.NeedsToShrink() || inSlimePond) 
         {
-            currentScale -= scaleDownRate * Mathf.Abs(playerController.moveDelta.x);
+            scaleChanging += scaleDownRate * Mathf.Abs(playerController.moveDelta.x);
+
+            currentScale -= scaleChanging;
+
+            currentScale = Mathf.Clamp(currentScale, minScale, scaleAtStartOfLevel);
+
             SetScale(currentScale);
 
             DropSlimePiece();
 
-            if (currentScale < minScale)
+            if (currentScale <= minScale)
             {
                 playerController.SetAsDead();
 
@@ -154,6 +167,31 @@ public class PlayerChangingSize : MonoBehaviour
         if (droppedRight) result++;
 
         return result;
+    }
+
+    bool InSlimePond(ref float scaleChange)
+    {
+        Collider2D[] colliders = Physics2D.OverlapCircleAll(
+            playerController.collision.lower.position, 
+            0.2f, 
+            inSlimePondMask);
+
+        if (colliders.Length == 0) return false;
+
+        SlimePond slimePond = colliders[0].GetComponentInParent<SlimePond>();
+        
+        if (slimePond == null) return false;
+
+        if (slimePond.slimeColour == playerController.ColourOfPlayer())
+        {
+            scaleChange -= .01f;
+        }
+        else
+        {
+            scaleChange += .01f;
+        }
+
+        return true;
     }
 
     public float CurrentWeight()

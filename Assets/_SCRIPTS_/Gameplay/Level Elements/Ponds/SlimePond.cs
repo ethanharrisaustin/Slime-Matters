@@ -4,14 +4,17 @@ using UnityEngine;
 public class SlimePond : MonoBehaviour
 {
     [SerializeField, Range(0.5f, 15f)] float pondWidth = 3f;
-    [Space]
-    [SerializeField] float waveWidth = 0.45f;
 
-    [SerializeField] SpriteRenderer mask;
+    public SlimeColour slimeColour;
+  
+    [HideInInspector, SerializeField] float waveWidth = 0.45f;
 
-    [SerializeField] Transform[] waveTransforms;
-    [SerializeField] BoxCollider2D[] collidersToGrow;
-    [SerializeField] float[] waveMoveSpeed;
+    [HideInInspector, SerializeField] SpriteRenderer mask;
+
+    [HideInInspector, SerializeField] Transform[] waveTransforms;
+    [HideInInspector, SerializeField] BoxCollider2D[] collidersToGrow;
+    [HideInInspector, SerializeField] PolygonCollider2D leftUphill, rightUphill;
+    [HideInInspector, SerializeField] float[] waveMoveSpeed;
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -71,5 +74,8 @@ public class SlimePond : MonoBehaviour
         {
             collidersToGrow[i].size = new Vector2(pondWidth, collidersToGrow[i].size.y);
         }
+
+        leftUphill.transform.localPosition = new Vector3(-pondWidth*.5f, leftUphill.transform.localPosition.y);
+        rightUphill.transform.localPosition = new Vector3(pondWidth*.5f, rightUphill.transform.localPosition.y);
     }
 }

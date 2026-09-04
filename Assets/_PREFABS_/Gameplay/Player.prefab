@@ -679,6 +679,9 @@ MonoBehaviour:
   scaleToRemoveExtraHitters: 0
   slimePrefab: {fileID: 5458645871575293388, guid: ac312f85e697149ce82bb7b7e20cd860, type: 3}
   spaceBetweenSlimes: 0.2
+  inSlimePondMask:
+    serializedVersion: 2
+    m_Bits: 8192
 --- !u!1 &3823943446552296367
 GameObject:
   m_ObjectHideFlags: 0

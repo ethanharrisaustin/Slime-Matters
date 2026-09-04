@@ -67,10 +67,15 @@ public class PlayerControllerCollision : MonoBehaviour
 
     public void CollideX()
     {
+        if (HittingIgnoreCollision(lower, allowence))
+        {
+            if (movement.IsJumping()) CollideXUpper();
+            
+            return;
+        }
+
         CollideXMiddle();
-
-        if (HittingIgnoreCollision(lower, allowence)) return;
-
+        
         if (!Hitting(lower)) CollideXLower();
 
         if (!Hitting(higher)) CollideXUpper();
@@ -245,6 +250,8 @@ public class PlayerControllerCollision : MonoBehaviour
         // When in pond, only stop if right upper 
         if (HittingIgnoreCollision(lower, allowence))
         {
+            if (!movement.IsJumping()) return false;
+
             return Hitting(rightUpper);
         }
 
@@ -272,6 +279,8 @@ public class PlayerControllerCollision : MonoBehaviour
         // When in pond, only stop if right upper 
         if (HittingIgnoreCollision(lower, allowence))
         {
+            if (!movement.IsJumping()) return false;
+
             return Hitting(leftUpper);
         }
 

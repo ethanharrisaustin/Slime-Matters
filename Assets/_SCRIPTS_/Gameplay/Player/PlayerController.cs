@@ -25,6 +25,8 @@ public class PlayerController : MonoBehaviour, ISlimeStickOnto
     public PlayerChangingSize playerChangingSize;
     public PlayerSprite playerSprite;
 
+    
+
     void Awake()
     {
         players.Clear();
@@ -167,5 +169,12 @@ public class PlayerController : MonoBehaviour, ISlimeStickOnto
     public Transform GetSlimeParent()
     {
         return playerSprite.actualSprite;
+    }
+
+    public SlimeColour ColourOfPlayer()
+    {
+        if (player == 1) return SlimeColour.green;
+
+        return SlimeColour.orange;
     }
 }
