@@ -63,6 +63,8 @@ public class PlayerControllerCollision : MonoBehaviour
         CollideX();
 
         CollideY();
+
+        SnapToGround();
     }
 
     public void CollideX()
@@ -70,7 +72,7 @@ public class PlayerControllerCollision : MonoBehaviour
         if (HittingIgnoreCollision(lower, allowence))
         {
             if (movement.IsJumping()) CollideXUpper();
-            
+
             return;
         }
 
@@ -231,17 +233,50 @@ public class PlayerControllerCollision : MonoBehaviour
         }
     }
 
+    Vector2[] snapToGroundPositions = new Vector2[3];
+    Vector2 leftSnapPos { get { return snapToGroundPositions[1]; } }
+    Vector2 middleSnapPos { get { return snapToGroundPositions[0]; } }
+    Vector2 rightSnapPos { get { return snapToGroundPositions[2]; } }
     void SnapToGround()
     {
         if (movement.IsJumping()) return;
         if (movement.timeOnGround < 3 && movement.timeOffGrouond == 0) return;
         if (movement.timeOffGrouond > 5) return;
 
-        HitPosition(lower, out var downPos);
+        HitPosition(lower, out snapToGroundPositions[0]);
+        bool hitLeft = HitPosition(lowerLeft, lowerLeft.position, Vector2.down, out snapToGroundPositions[1]);
+        bool hitRight = HitPosition(lowerRight, lowerRight.position, Vector2.down, out snapToGroundPositions[2]);
 
-        if (HittingBox(lower, 0.01f, snapToGroundAllowence))
+        Vector2 highestPos = snapToGroundPositions[0];
+
+        for (int i = 1; i < snapToGroundPositions.Length; ++i)
         {
-            transform.position = new Vector3(transform.position.x, downPos.y + Offset().y);
+            if (snapToGroundPositions[i].y > highestPos.y)
+            {
+                highestPos = snapToGroundPositions[i];
+            }
+        }
+        
+        if (hitLeft && highestPos == leftSnapPos)
+        {
+            if (HittingBox(lowerLeft, 0.01f, snapToGroundAllowence))
+            {
+                transform.position = new Vector3(transform.position.x, highestPos.y + Offset().y);
+            }
+        }
+        else if (hitRight && highestPos == rightSnapPos)
+        {
+            if (HittingBox(lowerRight, 0.01f, snapToGroundAllowence))
+            {
+                transform.position = new Vector3(transform.position.x, highestPos.y + Offset().y);
+            }
+        }
+        else
+        {
+            if (HittingBox(lower, 0.01f, snapToGroundAllowence))
+            {
+                transform.position = new Vector3(transform.position.x, middleSnapPos.y + Offset().y);
+            }
         }
     }
 

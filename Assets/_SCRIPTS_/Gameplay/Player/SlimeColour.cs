@@ -1,5 +1,6 @@
 public enum SlimeColour 
 { 
     green, 
-    orange 
+    orange,
+    water,
 }
